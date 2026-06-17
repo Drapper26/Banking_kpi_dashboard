@@ -78,3 +78,23 @@ This project is designed to show hiring managers that the analyst can:
 ## Resume Bullet
 
 Built a banking KPI dashboard using SQL, Python, SQLite, and Streamlit to analyze deposits, loan exposure, default rates, customer churn, and transaction channel performance across 1,200 synthetic banking customers.
+
+
+## SQL-First Analytics Layer
+
+This project includes a full SQL analytics layer inside the `/sql` folder.
+
+Key SQL files:
+
+- `banking_analytics_full_sql.sql` — complete end-to-end SQL file with schema, KPI queries, analytical views, and dashboard-ready queries.
+- `01_schema.sql` — database table structure.
+- `02_executive_kpis.sql` — total customers, deposits, loan book, default rate, churn rate, and transaction volume.
+- `03_branch_analysis.sql` — branch-level customer, deposit, loan, default, and churn performance.
+- `04_customer_segment_analysis.sql` — segment-level customer and deposit analysis.
+- `05_credit_risk_loan_analysis.sql` — loan product, credit risk, delinquency, and default analysis.
+- `06_transaction_channel_analysis.sql` — transaction volume, value, and channel adoption.
+- `07_churn_analysis.sql` — churn by risk band and age group.
+- `08_analytical_views.sql` — reusable SQL views such as customer 360, branch KPIs, loan risk summary, and monthly channel trends.
+- `09_dashboard_ready_queries.sql` — final queries designed to feed the dashboard layer.
+
+This makes the project SQL-heavy and closer to a real financial analytics workflow.
