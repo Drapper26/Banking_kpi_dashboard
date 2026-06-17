@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Banking KPI Dashboard | Archit Yadav</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    body { margin:0; font-family: Arial, sans-serif; background:#0f172a; color:#e5e7eb; }
+    header { padding:26px 36px; background:#111827; border-bottom:1px solid #334155; }
+    h1 { margin:0; font-size:30px; }
+    .subtitle { color:#94a3b8; margin-top:8px; }
+    .container { padding:28px 36px; }
+    .grid { display:grid; grid-template-columns: repeat(6, 1fr); gap:16px; }
+    .card { background:#111827; border:1px solid #334155; border-radius:14px; padding:18px; box-shadow: 0 6px 18px rgba(0,0,0,.18); }
+    .kpi-label { color:#94a3b8; font-size:13px; }
+    .kpi-value { font-size:26px; font-weight:700; margin-top:8px; }
+    .charts { display:grid; grid-template-columns: 1fr 1fr; gap:20px; margin-top:24px; }
+    .chart-title { font-size:18px; margin-bottom:16px; font-weight:700; }
+    .bar-row { margin:12px 0; }
+    .bar-label { display:flex; justify-content:space-between; font-size:13px; color:#cbd5e1; margin-bottom:5px; }
+    .bar-wrap { background:#1e293b; border-radius:10px; overflow:hidden; height:12px; }
+    .bar { background:#38bdf8; height:100%; border-radius:10px; }
+    table { width:100%; border-collapse: collapse; font-size:14px; }
+    th, td { text-align:left; padding:10px; border-bottom:1px solid #334155; }
+    th { color:#94a3b8; }
+    .insight { margin-top:22px; background:#0b1220; border-left:4px solid #38bdf8; padding:16px; color:#cbd5e1; line-height:1.5; }
+    @media (max-width:1100px) { .grid { grid-template-columns: repeat(2, 1fr); } .charts { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<header>
+    <h1>Banking KPI Dashboard</h1>
+    <div class="subtitle">Financial Services Analytics Portfolio Project | SQL + KPI Design + Interactive Dashboard</div>
+</header>
+<div class="container">
+    <section class="grid" id="kpis"></section>
+
+    <section class="charts">
+        <div class="card">
+            <div class="chart-title">Deposits by Branch</div>
+            <div id="branchDeposits"></div>
+        </div>
+        <div class="card">
+            <div class="chart-title">Transaction Channel Mix</div>
+            <div id="channelMix"></div>
+        </div>
+        <div class="card">
+            <div class="chart-title">Loan Default Rate by Risk Band</div>
+            <table id="riskTable"></table>
+        </div>
+        <div class="card">
+            <div class="chart-title">Monthly Transaction Volume</div>
+            <div id="monthlyTrend"></div>
+        </div>
+    </section>
+
+    <div class="insight">
+        <strong>Executive Insight:</strong> This dashboard tracks branch deposits, loan-book risk, customer churn, and digital channel adoption.
+        It is designed for banking leadership teams that need quick visibility into financial health, customer behavior, and credit risk.
+    </div>
+</div>
+
+<script>
+const data = {"kpis": {"Total Customers": "1,200", "Total Deposits": "$14.93M", "Loan Book": "$30.51M", "Default Rate": "6.80%", "Churn Rate": "19.25%", "Transaction Volume": "83,799"}, "branchDeposits": [{"branch": "Chicago", "balance": 2739355.56}, {"branch": "Columbus", "balance": 2470616.37}, {"branch": "Cincinnati", "balance": 2467353.03}, {"branch": "Cleveland Downtown", "balance": 2464404.04}, {"branch": "Detroit", "balance": 2422772.21}, {"branch": "Pittsburgh", "balance": 2368754.73}], "riskDefault": [{"risk_band": "High", "default_rate": 13.445378151260504, "loan_count": 119}, {"risk_band": "Low", "default_rate": 1.0204081632653061, "loan_count": 98}, {"risk_band": "Medium", "default_rate": 5.857740585774058, "loan_count": 239}], "channelMix": [{"channel": "Mobile", "transactions": 32017}, {"channel": "Online", "transactions": 23224}, {"channel": "Branch", "transactions": 12602}, {"channel": "ATM", "transactions": 10124}, {"channel": "Call Center", "transactions": 5832}], "monthlyTrend": [{"month": "2025-01", "volume": 4927, "net_amount": -877964.91}, {"month": "2025-02", "volume": 4627, "net_amount": -800359.75}, {"month": "2025-03", "volume": 5221, "net_amount": -989594.02}, {"month": "2025-04", "volume": 4899, "net_amount": -860175.64}, {"month": "2025-05", "volume": 5069, "net_amount": -898920.35}, {"month": "2025-06", "volume": 4823, "net_amount": -821487.9}, {"month": "2025-07", "volume": 5096, "net_amount": -924557.1}, {"month": "2025-08", "volume": 4941, "net_amount": -853369.5}, {"month": "2025-09", "volume": 4925, "net_amount": -879397.52}, {"month": "2025-10", "volume": 5085, "net_amount": -924343.36}, {"month": "2025-11", "volume": 4764, "net_amount": -839658.64}, {"month": "2025-12", "volume": 4968, "net_amount": -925453.49}, {"month": "2026-01", "volume": 5024, "net_amount": -894526.78}, {"month": "2026-02", "volume": 4441, "net_amount": -781260.46}, {"month": "2026-03", "volume": 5037, "net_amount": -870894.16}, {"month": "2026-04", "volume": 4850, "net_amount": -881649.42}, {"month": "2026-05", "volume": 5102, "net_amount": -906680.0}]};
+
+function currencyM(value) {
+    return "$" + (value/1000000).toFixed(2) + "M";
+}
+
+const kpiGrid = document.getElementById("kpis");
+Object.entries(data.kpis).forEach(([label, value]) => {
+    const div = document.createElement("div");
+    div.className = "card";
+    div.innerHTML = `<div class="kpi-label">${label}</div><div class="kpi-value">${value}</div>`;
+    kpiGrid.appendChild(div);
+});
+
+function renderBars(containerId, rows, labelKey, valueKey, formatter=(x)=>x.toLocaleString()) {
+    const container = document.getElementById(containerId);
+    const maxVal = Math.max(...rows.map(r => r[valueKey]));
+    rows.forEach(r => {
+        const pct = (r[valueKey] / maxVal) * 100;
+        const row = document.createElement("div");
+        row.className = "bar-row";
+        row.innerHTML = `
+            <div class="bar-label"><span>${r[labelKey]}</span><span>${formatter(r[valueKey])}</span></div>
+            <div class="bar-wrap"><div class="bar" style="width:${pct}%"></div></div>
+        `;
+        container.appendChild(row);
+    });
+}
+
+renderBars("branchDeposits", data.branchDeposits, "branch", "balance", currencyM);
+renderBars("channelMix", data.channelMix, "channel", "transactions");
+renderBars("monthlyTrend", data.monthlyTrend.slice(-12), "transaction_date", "volume");
+
+const riskTable = document.getElementById("riskTable");
+riskTable.innerHTML = "<tr><th>Risk Band</th><th>Loan Count</th><th>Default Rate</th></tr>" +
+    data.riskDefault.map(r => `<tr><td>${r.risk_band}</td><td>${r.loan_count}</td><td>${r.default_rate.toFixed(2)}%</td></tr>`).join("");
+</script>
+</body>
+</html>

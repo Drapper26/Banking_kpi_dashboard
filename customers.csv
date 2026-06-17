@@ -1,0 +1,1201 @@
+customer_id,branch,segment,age,state,credit_score,join_date,risk_band,churn_flag
+100001,Chicago,Retail,44,MI,652,2023-07-20,Medium,False
+100002,Columbus,Retail,46,OH,743,2021-02-16,Low,False
+100003,Chicago,Small Business,34,OH,677,2021-08-11,Medium,False
+100004,Pittsburgh,Retail,58,OH,702,2023-09-12,Medium,False
+100005,Columbus,Retail,31,OH,689,2021-10-10,Medium,False
+100006,Columbus,Mass Affluent,31,IL,664,2023-09-08,Medium,False
+100007,Pittsburgh,Mass Affluent,41,OH,584,2020-08-31,High,False
+100008,Columbus,Mass Affluent,18,MI,659,2023-05-13,Medium,False
+100009,Columbus,Retail,24,MI,677,2024-05-07,Medium,False
+100010,Cleveland Downtown,Retail,26,MI,582,2022-12-29,High,False
+100011,Detroit,Retail,57,OH,647,2020-10-30,Medium,False
+100012,Pittsburgh,Retail,38,IL,581,2024-06-24,High,False
+100013,Detroit,Retail,30,MI,666,2021-09-07,Medium,False
+100014,Columbus,Mass Affluent,23,OH,710,2021-03-19,Medium,False
+100015,Columbus,Mass Affluent,30,OH,673,2023-08-14,Medium,False
+100016,Cleveland Downtown,Retail,30,IL,761,2021-05-11,Low,False
+100017,Cincinnati,Retail,37,MI,601,2023-09-30,High,False
+100018,Chicago,Retail,48,OH,592,2021-07-04,High,False
+100019,Chicago,Retail,40,PA,552,2024-01-03,High,False
+100020,Pittsburgh,Retail,20,PA,670,2021-01-30,Medium,False
+100021,Cincinnati,Small Business,47,OH,699,2023-08-21,Medium,False
+100022,Cleveland Downtown,Small Business,36,IL,673,2023-06-03,Medium,False
+100023,Cleveland Downtown,Retail,18,MI,620,2023-09-24,High,False
+100024,Chicago,Retail,32,IL,718,2024-02-14,Medium,False
+100025,Cincinnati,Retail,42,MI,563,2020-09-25,High,False
+100026,Detroit,Retail,42,IL,638,2022-11-22,High,False
+100027,Columbus,Premier,29,PA,723,2022-01-24,Low,False
+100028,Pittsburgh,Retail,51,OH,711,2024-04-22,Medium,True
+100029,Columbus,Mass Affluent,27,IL,672,2021-07-30,Medium,False
+100030,Cleveland Downtown,Retail,42,IL,713,2021-12-15,Medium,True
+100031,Cincinnati,Premier,31,OH,679,2021-02-08,Medium,True
+100032,Chicago,Retail,23,MI,594,2021-04-30,High,False
+100033,Cincinnati,Retail,48,IL,734,2024-01-14,Low,True
+100034,Pittsburgh,Retail,37,MI,715,2022-02-11,Medium,False
+100035,Columbus,Retail,42,OH,624,2021-06-01,High,False
+100036,Cincinnati,Small Business,42,PA,774,2024-01-24,Low,True
+100037,Cincinnati,Mass Affluent,37,OH,776,2021-07-25,Low,False
+100038,Cincinnati,Retail,18,OH,705,2022-11-20,Medium,False
+100039,Cincinnati,Retail,39,PA,643,2021-09-28,Medium,False
+100040,Cleveland Downtown,Retail,39,IL,550,2024-07-14,High,False
+100041,Detroit,Mass Affluent,35,PA,709,2021-03-22,Medium,False
+100042,Pittsburgh,Premier,57,PA,661,2023-06-09,Medium,False
+100043,Detroit,Small Business,27,IL,662,2023-09-26,Medium,True
+100044,Detroit,Mass Affluent,49,PA,708,2020-12-03,Medium,False
+100045,Cincinnati,Retail,31,MI,688,2022-06-19,Medium,False
+100046,Detroit,Retail,39,PA,713,2023-08-30,Medium,False
+100047,Cleveland Downtown,Retail,28,PA,641,2021-08-15,Medium,False
+100048,Columbus,Retail,32,OH,579,2023-08-22,High,False
+100049,Cleveland Downtown,Small Business,41,MI,704,2024-07-10,Medium,False
+100050,Detroit,Retail,38,IL,647,2023-09-21,Medium,False
+100051,Detroit,Retail,19,IL,636,2023-07-24,High,False
+100052,Pittsburgh,Small Business,33,PA,645,2024-05-23,Medium,False
+100053,Cleveland Downtown,Mass Affluent,35,MI,712,2022-07-19,Medium,True
+100054,Pittsburgh,Retail,62,OH,669,2021-02-22,Medium,True
+100055,Chicago,Premier,41,OH,685,2024-07-31,Medium,False
+100056,Pittsburgh,Mass Affluent,18,OH,688,2023-07-12,Medium,False
+100057,Columbus,Retail,38,IL,795,2024-02-19,Low,True
+100058,Pittsburgh,Retail,35,IL,676,2023-07-10,Medium,True
+100059,Cleveland Downtown,Retail,37,OH,595,2024-08-21,High,False
+100060,Chicago,Premier,52,OH,731,2024-05-25,Low,False
+100061,Columbus,Retail,48,IL,609,2022-03-23,High,False
+100062,Columbus,Small Business,56,OH,612,2023-12-31,High,False
+100063,Pittsburgh,Retail,45,IL,780,2023-06-08,Low,False
+100064,Pittsburgh,Retail,25,IL,628,2024-01-20,High,True
+100065,Columbus,Retail,39,OH,632,2021-09-03,High,True
+100066,Chicago,Retail,18,MI,663,2024-08-07,Medium,False
+100067,Cleveland Downtown,Mass Affluent,24,PA,716,2024-08-08,Medium,False
+100068,Detroit,Retail,26,PA,745,2024-07-15,Low,False
+100069,Detroit,Retail,27,PA,642,2022-08-29,Medium,False
+100070,Cleveland Downtown,Premier,48,PA,622,2021-09-04,High,False
+100071,Detroit,Retail,40,OH,731,2022-07-28,Low,False
+100072,Chicago,Mass Affluent,18,MI,700,2023-06-17,Medium,False
+100073,Columbus,Mass Affluent,41,MI,733,2023-08-02,Low,False
+100074,Cincinnati,Retail,21,MI,587,2022-05-11,High,False
+100075,Cincinnati,Small Business,44,OH,706,2024-11-13,Medium,False
+100076,Pittsburgh,Mass Affluent,41,OH,709,2024-07-05,Medium,False
+100077,Detroit,Retail,29,MI,672,2024-03-06,Medium,False
+100078,Cincinnati,Small Business,41,PA,650,2022-11-07,Medium,False
+100079,Cincinnati,Retail,62,MI,686,2021-06-29,Medium,True
+100080,Chicago,Retail,22,MI,696,2021-03-15,Medium,False
+100081,Cleveland Downtown,Premier,25,PA,733,2023-06-10,Low,True
+100082,Cleveland Downtown,Small Business,53,PA,644,2023-05-25,Medium,False
+100083,Cincinnati,Mass Affluent,50,MI,712,2023-10-13,Medium,True
+100084,Chicago,Mass Affluent,48,MI,794,2022-02-01,Low,False
+100085,Pittsburgh,Retail,34,OH,618,2024-05-27,High,False
+100086,Chicago,Retail,26,MI,615,2024-09-03,High,False
+100087,Cleveland Downtown,Retail,36,PA,678,2021-05-08,Medium,False
+100088,Cincinnati,Retail,41,IL,705,2021-10-30,Medium,False
+100089,Chicago,Retail,38,OH,739,2024-04-17,Low,False
+100090,Cleveland Downtown,Premier,34,PA,835,2021-11-11,Low,False
+100091,Cleveland Downtown,Small Business,46,PA,642,2022-07-06,Medium,False
+100092,Columbus,Retail,24,MI,686,2024-09-12,Medium,False
+100093,Cincinnati,Retail,35,PA,699,2021-03-08,Medium,False
+100094,Cleveland Downtown,Retail,44,IL,655,2021-06-10,Medium,True
+100095,Chicago,Retail,26,PA,576,2024-01-05,High,False
+100096,Columbus,Small Business,32,OH,737,2023-12-01,Low,True
+100097,Chicago,Small Business,40,IL,621,2021-03-02,High,False
+100098,Chicago,Small Business,40,MI,711,2024-01-11,Medium,False
+100099,Chicago,Retail,26,OH,668,2022-04-14,Medium,False
+100100,Columbus,Retail,38,IL,597,2022-12-17,High,False
+100101,Cincinnati,Small Business,42,PA,720,2023-09-03,Low,False
+100102,Cleveland Downtown,Mass Affluent,52,IL,747,2023-01-30,Low,False
+100103,Cincinnati,Small Business,20,MI,638,2022-12-14,High,True
+100104,Chicago,Retail,44,MI,688,2024-10-07,Medium,False
+100105,Cleveland Downtown,Small Business,44,MI,835,2023-12-03,Low,False
+100106,Detroit,Premier,45,MI,752,2024-09-15,Low,False
+100107,Cleveland Downtown,Mass Affluent,50,MI,725,2020-11-01,Low,False
+100108,Cincinnati,Retail,33,OH,701,2022-10-06,Medium,False
+100109,Detroit,Retail,27,OH,646,2020-12-12,Medium,True
+100110,Pittsburgh,Retail,31,PA,664,2022-11-18,Medium,True
+100111,Pittsburgh,Retail,68,MI,557,2021-06-05,High,False
+100112,Cincinnati,Mass Affluent,46,OH,601,2020-11-19,High,False
+100113,Cincinnati,Retail,31,IL,719,2023-02-03,Medium,True
+100114,Pittsburgh,Mass Affluent,38,PA,630,2023-11-06,High,False
+100115,Pittsburgh,Mass Affluent,28,IL,727,2021-02-14,Low,False
+100116,Chicago,Small Business,28,MI,701,2022-08-24,Medium,False
+100117,Detroit,Small Business,38,MI,654,2023-04-25,Medium,False
+100118,Columbus,Retail,65,MI,694,2022-04-25,Medium,True
+100119,Pittsburgh,Retail,18,PA,670,2022-01-21,Medium,False
+100120,Pittsburgh,Mass Affluent,29,PA,736,2021-03-24,Low,False
+100121,Cleveland Downtown,Retail,27,MI,653,2024-05-25,Medium,False
+100122,Columbus,Mass Affluent,44,PA,737,2023-10-22,Low,True
+100123,Columbus,Retail,22,PA,641,2022-04-04,Medium,False
+100124,Detroit,Small Business,31,OH,654,2022-05-15,Medium,False
+100125,Pittsburgh,Small Business,60,PA,712,2020-11-22,Medium,False
+100126,Chicago,Retail,21,IL,710,2023-07-22,Medium,False
+100127,Columbus,Mass Affluent,65,OH,746,2020-09-17,Low,False
+100128,Cleveland Downtown,Mass Affluent,18,PA,663,2023-12-08,Medium,False
+100129,Chicago,Retail,54,OH,621,2021-10-18,High,True
+100130,Columbus,Small Business,43,OH,732,2022-05-13,Low,False
+100131,Columbus,Small Business,25,MI,686,2020-09-08,Medium,False
+100132,Pittsburgh,Mass Affluent,18,IL,633,2021-11-06,High,False
+100133,Pittsburgh,Small Business,34,IL,621,2022-05-26,High,True
+100134,Cincinnati,Mass Affluent,59,MI,611,2020-08-17,High,False
+100135,Detroit,Retail,32,PA,667,2023-05-20,Medium,False
+100136,Pittsburgh,Retail,56,MI,581,2023-08-10,High,True
+100137,Cincinnati,Retail,53,OH,660,2024-02-23,Medium,False
+100138,Columbus,Retail,25,PA,685,2020-12-17,Medium,False
+100139,Columbus,Retail,40,IL,626,2023-01-25,High,False
+100140,Detroit,Retail,38,OH,638,2023-10-06,High,False
+100141,Pittsburgh,Retail,39,OH,696,2020-08-18,Medium,False
+100142,Detroit,Retail,58,OH,591,2022-12-13,High,False
+100143,Cincinnati,Mass Affluent,65,IL,582,2021-11-26,High,False
+100144,Chicago,Mass Affluent,36,PA,722,2022-03-09,Low,False
+100145,Columbus,Retail,41,IL,625,2024-10-04,High,False
+100146,Pittsburgh,Retail,35,IL,632,2020-11-10,High,False
+100147,Columbus,Small Business,30,PA,736,2021-06-07,Low,False
+100148,Detroit,Retail,42,IL,621,2021-08-08,High,False
+100149,Detroit,Mass Affluent,49,OH,706,2021-04-26,Medium,False
+100150,Pittsburgh,Retail,48,IL,694,2023-11-26,Medium,False
+100151,Cleveland Downtown,Retail,27,MI,629,2023-09-26,High,False
+100152,Pittsburgh,Retail,47,IL,693,2023-05-13,Medium,False
+100153,Pittsburgh,Retail,37,OH,666,2022-04-14,Medium,False
+100154,Cleveland Downtown,Mass Affluent,54,OH,657,2022-12-17,Medium,False
+100155,Columbus,Mass Affluent,45,OH,678,2020-09-10,Medium,False
+100156,Cleveland Downtown,Premier,35,PA,750,2024-10-22,Low,False
+100157,Detroit,Retail,48,PA,704,2022-04-08,Medium,False
+100158,Chicago,Retail,54,PA,661,2022-04-25,Medium,False
+100159,Chicago,Retail,46,MI,642,2023-12-25,Medium,False
+100160,Detroit,Mass Affluent,42,OH,682,2024-01-02,Medium,False
+100161,Cincinnati,Retail,39,OH,692,2023-03-05,Medium,False
+100162,Detroit,Mass Affluent,27,IL,805,2022-09-12,Low,True
+100163,Chicago,Retail,24,PA,593,2024-05-08,High,False
+100164,Chicago,Mass Affluent,53,OH,733,2021-09-30,Low,False
+100165,Cleveland Downtown,Retail,46,IL,694,2021-03-19,Medium,False
+100166,Cincinnati,Retail,37,MI,610,2024-11-07,High,False
+100167,Pittsburgh,Small Business,38,OH,652,2022-06-29,Medium,False
+100168,Cincinnati,Mass Affluent,50,IL,681,2020-12-15,Medium,False
+100169,Columbus,Retail,27,MI,642,2021-06-20,Medium,True
+100170,Detroit,Mass Affluent,43,IL,658,2022-06-24,Medium,False
+100171,Chicago,Mass Affluent,27,MI,703,2023-07-19,Medium,False
+100172,Cleveland Downtown,Retail,41,IL,632,2023-07-22,High,False
+100173,Pittsburgh,Mass Affluent,31,IL,702,2023-01-14,Medium,False
+100174,Cleveland Downtown,Retail,19,MI,582,2023-11-26,High,True
+100175,Pittsburgh,Retail,28,MI,648,2023-01-05,Medium,False
+100176,Cincinnati,Small Business,42,MI,771,2021-10-21,Low,False
+100177,Cleveland Downtown,Retail,49,PA,651,2024-06-10,Medium,False
+100178,Columbus,Mass Affluent,37,IL,634,2021-10-22,High,False
+100179,Columbus,Mass Affluent,37,IL,674,2022-05-30,Medium,False
+100180,Cleveland Downtown,Retail,42,PA,614,2022-08-27,High,False
+100181,Chicago,Retail,44,MI,744,2022-04-08,Low,False
+100182,Detroit,Retail,36,IL,682,2020-09-27,Medium,False
+100183,Detroit,Retail,46,IL,637,2023-05-28,High,False
+100184,Cincinnati,Retail,40,OH,660,2020-11-16,Medium,False
+100185,Columbus,Retail,39,PA,617,2023-11-06,High,False
+100186,Columbus,Mass Affluent,38,MI,717,2020-11-10,Medium,True
+100187,Detroit,Premier,56,MI,742,2024-05-11,Low,False
+100188,Columbus,Retail,65,MI,617,2023-12-01,High,False
+100189,Cincinnati,Retail,49,PA,670,2023-05-21,Medium,False
+100190,Cleveland Downtown,Premier,66,MI,645,2021-01-04,Medium,False
+100191,Columbus,Mass Affluent,27,IL,657,2024-05-06,Medium,False
+100192,Cleveland Downtown,Mass Affluent,18,IL,661,2022-03-28,Medium,True
+100193,Pittsburgh,Retail,28,OH,668,2023-07-04,Medium,False
+100194,Pittsburgh,Retail,42,OH,763,2022-09-04,Low,False
+100195,Pittsburgh,Retail,50,OH,628,2024-01-27,High,False
+100196,Columbus,Small Business,26,MI,717,2024-06-11,Medium,True
+100197,Columbus,Retail,20,IL,760,2021-07-10,Low,False
+100198,Detroit,Mass Affluent,53,PA,664,2021-12-28,Medium,False
+100199,Pittsburgh,Retail,18,IL,734,2023-04-04,Low,False
+100200,Detroit,Premier,36,MI,758,2021-09-25,Low,False
+100201,Detroit,Retail,18,OH,627,2020-08-23,High,False
+100202,Columbus,Mass Affluent,38,MI,692,2021-03-21,Medium,False
+100203,Cleveland Downtown,Retail,32,PA,694,2021-10-29,Medium,False
+100204,Cleveland Downtown,Retail,24,IL,652,2022-05-25,Medium,True
+100205,Chicago,Mass Affluent,39,MI,718,2024-09-27,Medium,False
+100206,Columbus,Retail,47,MI,598,2020-12-24,High,False
+100207,Pittsburgh,Retail,18,PA,730,2023-06-10,Low,False
+100208,Chicago,Mass Affluent,42,PA,648,2022-07-16,Medium,True
+100209,Cleveland Downtown,Retail,58,PA,666,2023-06-07,Medium,False
+100210,Columbus,Retail,53,PA,663,2023-03-14,Medium,False
+100211,Detroit,Mass Affluent,64,MI,786,2022-06-17,Low,False
+100212,Cleveland Downtown,Retail,34,MI,713,2020-12-30,Medium,False
+100213,Pittsburgh,Premier,46,IL,765,2022-06-20,Low,True
+100214,Cleveland Downtown,Mass Affluent,25,IL,727,2020-10-20,Low,False
+100215,Cincinnati,Mass Affluent,51,OH,593,2024-05-29,High,False
+100216,Columbus,Premier,22,OH,577,2020-08-19,High,False
+100217,Chicago,Small Business,34,OH,729,2020-08-23,Low,True
+100218,Columbus,Retail,57,IL,664,2023-05-13,Medium,True
+100219,Columbus,Premier,59,IL,614,2021-05-12,High,False
+100220,Pittsburgh,Premier,18,IL,686,2022-12-21,Medium,False
+100221,Pittsburgh,Retail,42,OH,658,2024-01-08,Medium,False
+100222,Cincinnati,Retail,18,IL,655,2023-04-22,Medium,False
+100223,Chicago,Premier,21,OH,726,2022-05-16,Low,False
+100224,Cleveland Downtown,Retail,42,MI,608,2024-04-09,High,False
+100225,Pittsburgh,Small Business,31,OH,631,2021-03-27,High,False
+100226,Detroit,Retail,37,OH,712,2023-11-14,Medium,True
+100227,Detroit,Retail,25,IL,687,2021-06-01,Medium,False
+100228,Pittsburgh,Mass Affluent,31,PA,646,2023-06-05,Medium,False
+100229,Detroit,Retail,36,MI,603,2022-06-19,High,False
+100230,Chicago,Retail,30,OH,594,2021-05-22,High,False
+100231,Detroit,Mass Affluent,63,PA,691,2023-03-07,Medium,True
+100232,Detroit,Retail,28,IL,671,2024-05-26,Medium,False
+100233,Columbus,Premier,36,OH,677,2022-05-02,Medium,False
+100234,Cleveland Downtown,Mass Affluent,45,PA,731,2022-02-16,Low,False
+100235,Chicago,Retail,31,MI,628,2022-08-05,High,False
+100236,Pittsburgh,Premier,34,PA,563,2022-05-12,High,False
+100237,Detroit,Retail,18,PA,735,2021-07-24,Low,True
+100238,Detroit,Mass Affluent,59,PA,676,2024-07-13,Medium,False
+100239,Cincinnati,Mass Affluent,45,IL,707,2023-01-06,Medium,False
+100240,Detroit,Retail,78,OH,721,2023-05-03,Low,False
+100241,Chicago,Retail,36,IL,607,2024-02-02,High,False
+100242,Pittsburgh,Retail,18,MI,671,2023-01-22,Medium,True
+100243,Detroit,Mass Affluent,28,IL,611,2022-05-15,High,False
+100244,Cincinnati,Small Business,29,PA,630,2021-09-18,High,False
+100245,Pittsburgh,Retail,59,IL,708,2024-09-04,Medium,True
+100246,Cincinnati,Mass Affluent,37,IL,771,2022-10-04,Low,True
+100247,Chicago,Mass Affluent,39,PA,642,2022-02-22,Medium,False
+100248,Cleveland Downtown,Retail,57,MI,689,2024-05-11,Medium,False
+100249,Pittsburgh,Retail,24,IL,649,2024-11-01,Medium,False
+100250,Chicago,Retail,26,PA,583,2024-07-02,High,False
+100251,Pittsburgh,Mass Affluent,50,MI,795,2023-01-09,Low,True
+100252,Detroit,Mass Affluent,19,OH,720,2023-01-30,Low,False
+100253,Chicago,Small Business,29,IL,663,2023-02-23,Medium,True
+100254,Chicago,Mass Affluent,30,IL,642,2021-11-20,Medium,True
+100255,Cleveland Downtown,Mass Affluent,38,PA,644,2021-05-20,Medium,False
+100256,Chicago,Small Business,41,PA,687,2020-09-25,Medium,True
+100257,Cleveland Downtown,Retail,34,OH,610,2020-08-28,High,True
+100258,Chicago,Mass Affluent,30,OH,731,2022-06-08,Low,False
+100259,Columbus,Mass Affluent,44,OH,636,2024-08-30,High,False
+100260,Cincinnati,Mass Affluent,39,MI,731,2022-11-29,Low,False
+100261,Cincinnati,Retail,18,PA,689,2021-12-11,Medium,True
+100262,Pittsburgh,Mass Affluent,29,PA,721,2023-12-20,Low,False
+100263,Columbus,Retail,28,IL,560,2021-06-12,High,False
+100264,Chicago,Retail,18,PA,662,2023-08-15,Medium,False
+100265,Pittsburgh,Mass Affluent,41,IL,640,2023-06-29,Medium,False
+100266,Chicago,Retail,46,IL,568,2023-04-23,High,False
+100267,Chicago,Retail,37,OH,593,2022-06-12,High,True
+100268,Cincinnati,Premier,29,MI,692,2021-05-04,Medium,False
+100269,Pittsburgh,Mass Affluent,26,IL,668,2023-03-25,Medium,False
+100270,Columbus,Premier,51,IL,658,2024-04-28,Medium,True
+100271,Columbus,Retail,48,MI,597,2021-09-12,High,False
+100272,Cincinnati,Premier,44,MI,769,2024-10-19,Low,False
+100273,Chicago,Retail,18,OH,616,2021-09-30,High,False
+100274,Chicago,Mass Affluent,45,OH,678,2021-07-10,Medium,False
+100275,Chicago,Retail,42,MI,626,2023-08-19,High,False
+100276,Detroit,Small Business,39,PA,681,2021-05-09,Medium,False
+100277,Columbus,Mass Affluent,53,PA,703,2021-05-26,Medium,True
+100278,Cleveland Downtown,Small Business,42,OH,667,2023-03-11,Medium,False
+100279,Pittsburgh,Retail,31,MI,636,2020-10-25,High,False
+100280,Columbus,Retail,43,MI,636,2023-02-02,High,False
+100281,Chicago,Retail,41,PA,774,2024-03-07,Low,True
+100282,Detroit,Small Business,49,MI,672,2021-12-11,Medium,False
+100283,Detroit,Small Business,53,PA,667,2023-06-25,Medium,False
+100284,Pittsburgh,Premier,18,MI,634,2020-09-26,High,False
+100285,Cincinnati,Small Business,18,IL,670,2024-07-01,Medium,False
+100286,Columbus,Mass Affluent,38,PA,782,2021-02-16,Low,False
+100287,Chicago,Mass Affluent,42,IL,677,2021-10-18,Medium,False
+100288,Cincinnati,Retail,48,IL,538,2024-11-04,High,True
+100289,Cincinnati,Retail,41,IL,702,2022-11-09,Medium,False
+100290,Chicago,Mass Affluent,18,MI,752,2021-08-23,Low,False
+100291,Pittsburgh,Small Business,42,MI,667,2024-04-25,Medium,True
+100292,Chicago,Retail,46,OH,784,2021-06-13,Low,False
+100293,Detroit,Retail,40,PA,673,2021-04-16,Medium,False
+100294,Cleveland Downtown,Mass Affluent,32,IL,643,2020-12-28,Medium,False
+100295,Cincinnati,Mass Affluent,48,OH,642,2024-02-20,Medium,False
+100296,Cleveland Downtown,Premier,38,MI,663,2022-02-28,Medium,True
+100297,Cleveland Downtown,Retail,44,PA,678,2022-09-29,Medium,False
+100298,Pittsburgh,Retail,51,IL,631,2021-08-18,High,False
+100299,Chicago,Mass Affluent,34,IL,636,2021-04-01,High,False
+100300,Cleveland Downtown,Small Business,32,IL,710,2023-05-10,Medium,False
+100301,Cleveland Downtown,Mass Affluent,47,PA,639,2022-06-08,High,False
+100302,Pittsburgh,Premier,49,MI,764,2024-05-13,Low,True
+100303,Chicago,Retail,43,MI,763,2024-07-31,Low,False
+100304,Pittsburgh,Retail,27,OH,591,2022-05-16,High,False
+100305,Cleveland Downtown,Mass Affluent,18,OH,772,2024-08-21,Low,False
+100306,Cincinnati,Retail,46,PA,656,2021-10-03,Medium,False
+100307,Columbus,Retail,41,PA,598,2021-08-20,High,False
+100308,Columbus,Small Business,69,PA,697,2023-01-30,Medium,False
+100309,Columbus,Mass Affluent,39,OH,729,2023-05-15,Low,False
+100310,Columbus,Premier,44,MI,702,2023-12-11,Medium,False
+100311,Cleveland Downtown,Mass Affluent,27,OH,715,2024-03-08,Medium,False
+100312,Cleveland Downtown,Retail,62,PA,733,2021-08-15,Low,False
+100313,Cincinnati,Retail,58,MI,631,2024-08-17,High,False
+100314,Columbus,Mass Affluent,25,OH,683,2020-09-27,Medium,False
+100315,Cleveland Downtown,Retail,38,MI,720,2022-01-16,Low,False
+100316,Detroit,Retail,18,PA,744,2021-06-22,Low,False
+100317,Cleveland Downtown,Mass Affluent,35,MI,666,2022-05-09,Medium,False
+100318,Chicago,Premier,24,OH,598,2022-03-28,High,False
+100319,Pittsburgh,Retail,48,OH,664,2022-03-04,Medium,False
+100320,Chicago,Small Business,21,OH,618,2024-06-20,High,False
+100321,Cincinnati,Mass Affluent,33,OH,781,2024-03-19,Low,False
+100322,Cincinnati,Mass Affluent,34,MI,607,2022-10-14,High,False
+100323,Detroit,Retail,34,IL,645,2022-02-01,Medium,False
+100324,Detroit,Retail,18,OH,657,2021-04-02,Medium,False
+100325,Chicago,Small Business,34,PA,728,2022-07-06,Low,True
+100326,Pittsburgh,Small Business,62,IL,751,2023-01-08,Low,False
+100327,Pittsburgh,Retail,34,OH,599,2023-03-03,High,False
+100328,Pittsburgh,Retail,71,MI,663,2022-10-28,Medium,True
+100329,Columbus,Mass Affluent,38,IL,688,2024-07-18,Medium,False
+100330,Cleveland Downtown,Small Business,40,OH,682,2022-07-02,Medium,False
+100331,Cleveland Downtown,Mass Affluent,30,MI,659,2024-03-11,Medium,False
+100332,Detroit,Retail,37,MI,630,2021-03-01,High,True
+100333,Cleveland Downtown,Retail,28,IL,665,2020-11-17,Medium,False
+100334,Cleveland Downtown,Premier,34,MI,772,2022-12-13,Low,True
+100335,Cleveland Downtown,Mass Affluent,18,PA,750,2024-01-21,Low,False
+100336,Chicago,Retail,54,OH,545,2022-12-16,High,True
+100337,Detroit,Retail,33,MI,639,2021-09-14,High,False
+100338,Columbus,Small Business,19,OH,647,2021-07-04,Medium,False
+100339,Chicago,Small Business,23,MI,786,2024-10-04,Low,False
+100340,Columbus,Retail,50,MI,729,2023-01-07,Low,False
+100341,Cincinnati,Retail,47,PA,597,2021-09-30,High,True
+100342,Chicago,Retail,31,PA,686,2020-10-07,Medium,False
+100343,Chicago,Premier,22,OH,729,2020-09-26,Low,False
+100344,Detroit,Retail,34,IL,639,2022-05-18,High,False
+100345,Cincinnati,Retail,47,MI,684,2020-11-16,Medium,True
+100346,Cincinnati,Mass Affluent,33,OH,753,2024-08-17,Low,False
+100347,Columbus,Retail,23,OH,693,2021-02-21,Medium,False
+100348,Cleveland Downtown,Retail,45,IL,642,2022-03-14,Medium,False
+100349,Detroit,Retail,42,MI,591,2023-09-18,High,False
+100350,Detroit,Retail,50,IL,649,2024-04-19,Medium,False
+100351,Cincinnati,Mass Affluent,31,IL,747,2021-12-19,Low,False
+100352,Chicago,Retail,28,PA,582,2022-09-15,High,False
+100353,Detroit,Retail,18,PA,693,2023-03-26,Medium,False
+100354,Columbus,Mass Affluent,21,MI,786,2023-04-20,Low,False
+100355,Cincinnati,Retail,18,IL,753,2020-09-25,Low,False
+100356,Pittsburgh,Retail,40,IL,654,2021-12-08,Medium,True
+100357,Chicago,Retail,30,MI,681,2024-07-08,Medium,False
+100358,Pittsburgh,Small Business,37,OH,750,2022-06-23,Low,False
+100359,Cleveland Downtown,Retail,39,OH,668,2023-03-02,Medium,True
+100360,Detroit,Retail,33,IL,656,2020-12-10,Medium,False
+100361,Chicago,Retail,42,OH,565,2022-08-26,High,True
+100362,Cleveland Downtown,Premier,20,PA,730,2021-06-16,Low,True
+100363,Pittsburgh,Small Business,40,MI,679,2024-06-05,Medium,False
+100364,Pittsburgh,Small Business,38,PA,709,2022-06-24,Medium,False
+100365,Detroit,Retail,30,OH,617,2022-09-14,High,False
+100366,Cincinnati,Mass Affluent,40,PA,636,2023-01-20,High,False
+100367,Columbus,Retail,43,OH,566,2021-12-12,High,False
+100368,Detroit,Retail,51,MI,685,2022-12-14,Medium,True
+100369,Chicago,Premier,41,PA,744,2023-08-07,Low,False
+100370,Cleveland Downtown,Retail,59,PA,715,2023-12-13,Medium,True
+100371,Detroit,Retail,18,OH,589,2023-12-06,High,True
+100372,Chicago,Retail,29,IL,661,2021-02-07,Medium,False
+100373,Detroit,Mass Affluent,44,MI,650,2021-05-28,Medium,False
+100374,Cincinnati,Retail,40,OH,618,2022-04-17,High,False
+100375,Pittsburgh,Mass Affluent,30,MI,612,2021-08-09,High,False
+100376,Cleveland Downtown,Retail,25,OH,585,2023-03-08,High,True
+100377,Pittsburgh,Retail,25,OH,717,2022-11-08,Medium,False
+100378,Cincinnati,Retail,25,OH,804,2021-06-22,Low,False
+100379,Detroit,Retail,44,IL,670,2021-09-01,Medium,False
+100380,Detroit,Premier,26,OH,728,2022-05-26,Low,True
+100381,Detroit,Mass Affluent,30,MI,696,2021-07-12,Medium,True
+100382,Pittsburgh,Retail,71,OH,654,2022-05-25,Medium,False
+100383,Cleveland Downtown,Small Business,52,MI,651,2020-12-01,Medium,True
+100384,Cleveland Downtown,Retail,37,PA,757,2024-09-13,Low,False
+100385,Columbus,Mass Affluent,29,IL,789,2021-12-25,Low,False
+100386,Detroit,Mass Affluent,47,MI,659,2022-10-31,Medium,True
+100387,Cincinnati,Retail,46,MI,713,2021-02-11,Medium,True
+100388,Detroit,Retail,46,MI,573,2024-07-21,High,False
+100389,Cincinnati,Retail,28,IL,646,2023-05-01,Medium,False
+100390,Cincinnati,Mass Affluent,37,PA,724,2023-01-20,Low,False
+100391,Cleveland Downtown,Mass Affluent,40,PA,616,2022-12-17,High,False
+100392,Cincinnati,Premier,42,IL,723,2024-03-13,Low,True
+100393,Detroit,Mass Affluent,45,OH,749,2023-03-09,Low,False
+100394,Detroit,Retail,48,MI,685,2024-03-16,Medium,True
+100395,Chicago,Mass Affluent,37,OH,598,2021-04-19,High,False
+100396,Chicago,Retail,43,MI,671,2024-10-26,Medium,False
+100397,Cincinnati,Retail,41,PA,589,2023-01-03,High,False
+100398,Pittsburgh,Retail,23,PA,717,2024-01-20,Medium,False
+100399,Cleveland Downtown,Retail,37,OH,697,2022-01-28,Medium,False
+100400,Detroit,Small Business,38,OH,691,2021-03-18,Medium,False
+100401,Cincinnati,Small Business,50,PA,661,2021-07-28,Medium,False
+100402,Pittsburgh,Retail,39,PA,634,2021-01-14,High,False
+100403,Detroit,Small Business,32,PA,672,2020-11-17,Medium,False
+100404,Pittsburgh,Retail,40,MI,633,2021-02-16,High,True
+100405,Chicago,Retail,54,IL,610,2021-07-01,High,False
+100406,Cincinnati,Mass Affluent,35,IL,665,2023-08-11,Medium,False
+100407,Detroit,Retail,56,IL,670,2023-11-01,Medium,True
+100408,Cincinnati,Mass Affluent,51,IL,608,2022-05-02,High,False
+100409,Cincinnati,Mass Affluent,41,IL,738,2024-01-06,Low,False
+100410,Columbus,Small Business,39,PA,748,2023-07-09,Low,True
+100411,Cleveland Downtown,Mass Affluent,31,MI,767,2021-10-24,Low,True
+100412,Cleveland Downtown,Mass Affluent,67,OH,670,2023-04-29,Medium,False
+100413,Cleveland Downtown,Mass Affluent,32,MI,769,2022-05-27,Low,False
+100414,Detroit,Retail,58,IL,631,2024-05-29,High,True
+100415,Columbus,Small Business,32,MI,674,2024-10-09,Medium,True
+100416,Pittsburgh,Retail,20,MI,609,2023-08-08,High,False
+100417,Pittsburgh,Premier,24,MI,647,2023-08-31,Medium,False
+100418,Cleveland Downtown,Retail,37,OH,672,2020-11-30,Medium,False
+100419,Chicago,Retail,58,PA,605,2024-02-25,High,False
+100420,Cleveland Downtown,Retail,50,IL,648,2021-01-07,Medium,False
+100421,Columbus,Mass Affluent,37,IL,727,2022-05-29,Low,False
+100422,Detroit,Retail,23,OH,681,2024-10-25,Medium,False
+100423,Cincinnati,Retail,40,PA,687,2021-11-05,Medium,False
+100424,Chicago,Mass Affluent,41,IL,825,2024-04-19,Low,False
+100425,Cincinnati,Retail,29,OH,630,2024-08-27,High,False
+100426,Columbus,Retail,29,IL,629,2024-07-27,High,False
+100427,Cleveland Downtown,Small Business,29,IL,755,2021-07-29,Low,False
+100428,Detroit,Retail,56,PA,628,2020-11-22,High,False
+100429,Columbus,Retail,27,OH,685,2021-06-22,Medium,False
+100430,Cincinnati,Retail,30,IL,694,2023-11-15,Medium,True
+100431,Chicago,Mass Affluent,40,MI,606,2024-07-17,High,True
+100432,Detroit,Retail,58,OH,758,2022-09-25,Low,False
+100433,Pittsburgh,Retail,30,IL,638,2022-10-30,High,False
+100434,Cincinnati,Mass Affluent,41,MI,708,2024-07-17,Medium,True
+100435,Cincinnati,Retail,46,OH,770,2021-08-29,Low,False
+100436,Chicago,Mass Affluent,35,PA,646,2024-09-03,Medium,False
+100437,Cincinnati,Retail,20,PA,619,2021-01-30,High,False
+100438,Pittsburgh,Premier,37,IL,788,2021-05-19,Low,False
+100439,Columbus,Small Business,31,OH,702,2020-11-27,Medium,True
+100440,Pittsburgh,Retail,37,PA,725,2024-09-04,Low,False
+100441,Columbus,Small Business,70,MI,660,2023-03-08,Medium,False
+100442,Detroit,Retail,31,IL,717,2023-07-03,Medium,False
+100443,Cleveland Downtown,Mass Affluent,46,PA,791,2023-04-27,Low,False
+100444,Cincinnati,Small Business,45,OH,670,2021-03-31,Medium,False
+100445,Cincinnati,Retail,45,MI,720,2022-06-22,Low,False
+100446,Pittsburgh,Mass Affluent,48,IL,717,2023-01-08,Medium,False
+100447,Columbus,Retail,51,IL,724,2022-11-11,Low,True
+100448,Detroit,Retail,55,OH,695,2020-11-04,Medium,False
+100449,Pittsburgh,Retail,35,PA,668,2021-11-11,Medium,False
+100450,Cincinnati,Retail,53,OH,615,2023-01-31,High,False
+100451,Chicago,Retail,42,IL,638,2021-07-17,High,False
+100452,Chicago,Retail,38,IL,730,2022-12-14,Low,False
+100453,Pittsburgh,Retail,40,MI,662,2021-06-22,Medium,False
+100454,Pittsburgh,Retail,20,OH,701,2024-07-02,Medium,False
+100455,Chicago,Mass Affluent,46,MI,808,2022-01-17,Low,False
+100456,Chicago,Mass Affluent,33,OH,702,2024-02-14,Medium,False
+100457,Detroit,Mass Affluent,41,IL,776,2024-09-22,Low,False
+100458,Columbus,Retail,36,MI,675,2022-11-22,Medium,False
+100459,Pittsburgh,Premier,45,OH,700,2021-07-12,Medium,True
+100460,Columbus,Mass Affluent,32,MI,700,2022-11-02,Medium,False
+100461,Pittsburgh,Mass Affluent,51,PA,633,2021-12-14,High,True
+100462,Cincinnati,Retail,39,MI,621,2023-07-10,High,False
+100463,Cleveland Downtown,Retail,53,PA,576,2022-02-14,High,False
+100464,Detroit,Retail,30,OH,680,2023-06-15,Medium,True
+100465,Cincinnati,Mass Affluent,58,PA,686,2021-06-28,Medium,False
+100466,Cincinnati,Mass Affluent,30,IL,793,2023-10-20,Low,False
+100467,Cleveland Downtown,Retail,19,OH,539,2022-05-22,High,False
+100468,Columbus,Small Business,43,IL,662,2024-06-06,Medium,False
+100469,Chicago,Premier,24,MI,728,2021-03-06,Low,False
+100470,Cincinnati,Mass Affluent,41,MI,658,2023-03-29,Medium,False
+100471,Columbus,Mass Affluent,21,PA,737,2022-11-23,Low,False
+100472,Detroit,Retail,46,PA,654,2024-02-22,Medium,False
+100473,Columbus,Mass Affluent,62,OH,631,2022-11-24,High,False
+100474,Detroit,Mass Affluent,18,IL,651,2021-10-30,Medium,False
+100475,Columbus,Mass Affluent,37,OH,703,2024-07-21,Medium,True
+100476,Cincinnati,Retail,34,IL,679,2021-12-22,Medium,False
+100477,Pittsburgh,Mass Affluent,21,OH,769,2024-03-21,Low,True
+100478,Cincinnati,Mass Affluent,36,IL,751,2022-04-23,Low,False
+100479,Chicago,Retail,42,PA,685,2021-10-30,Medium,False
+100480,Chicago,Mass Affluent,45,PA,714,2022-06-30,Medium,False
+100481,Detroit,Small Business,46,OH,763,2024-03-23,Low,False
+100482,Detroit,Retail,40,PA,698,2024-01-06,Medium,True
+100483,Cincinnati,Premier,36,PA,769,2022-12-25,Low,True
+100484,Detroit,Small Business,29,OH,789,2023-07-08,Low,False
+100485,Columbus,Mass Affluent,37,MI,611,2024-03-21,High,False
+100486,Chicago,Retail,39,OH,622,2022-02-07,High,False
+100487,Chicago,Retail,48,PA,624,2023-12-18,High,False
+100488,Chicago,Mass Affluent,32,MI,586,2021-10-05,High,True
+100489,Cleveland Downtown,Small Business,32,OH,556,2024-06-19,High,False
+100490,Cleveland Downtown,Premier,18,MI,731,2021-04-09,Low,True
+100491,Columbus,Mass Affluent,48,IL,713,2021-06-16,Medium,True
+100492,Chicago,Retail,25,MI,657,2021-04-28,Medium,False
+100493,Cincinnati,Retail,37,IL,596,2023-04-03,High,False
+100494,Pittsburgh,Retail,57,OH,708,2024-01-14,Medium,False
+100495,Pittsburgh,Retail,35,IL,661,2023-10-12,Medium,False
+100496,Cincinnati,Mass Affluent,40,MI,577,2020-11-22,High,False
+100497,Cincinnati,Mass Affluent,34,MI,652,2022-09-08,Medium,False
+100498,Columbus,Mass Affluent,24,OH,674,2023-02-18,Medium,False
+100499,Columbus,Retail,61,MI,695,2022-05-27,Medium,False
+100500,Columbus,Retail,30,OH,691,2023-04-18,Medium,False
+100501,Pittsburgh,Small Business,56,IL,740,2023-07-13,Low,False
+100502,Columbus,Small Business,38,MI,654,2023-11-10,Medium,False
+100503,Columbus,Retail,47,IL,681,2022-02-15,Medium,False
+100504,Cincinnati,Retail,49,OH,694,2022-09-19,Medium,False
+100505,Detroit,Retail,51,PA,630,2023-09-19,High,False
+100506,Detroit,Retail,55,OH,670,2023-05-06,Medium,False
+100507,Pittsburgh,Mass Affluent,64,IL,652,2023-04-27,Medium,False
+100508,Detroit,Retail,60,OH,670,2022-07-04,Medium,False
+100509,Columbus,Small Business,29,MI,663,2020-08-21,Medium,False
+100510,Pittsburgh,Retail,33,IL,683,2024-08-20,Medium,False
+100511,Detroit,Mass Affluent,44,MI,658,2021-10-26,Medium,False
+100512,Cincinnati,Retail,37,IL,777,2020-08-20,Low,False
+100513,Detroit,Retail,60,OH,683,2024-03-14,Medium,True
+100514,Cleveland Downtown,Retail,38,MI,666,2021-10-17,Medium,False
+100515,Cincinnati,Mass Affluent,45,PA,633,2021-07-18,High,False
+100516,Detroit,Retail,34,OH,568,2024-09-01,High,False
+100517,Cleveland Downtown,Retail,43,MI,695,2022-04-07,Medium,False
+100518,Detroit,Retail,31,PA,746,2023-01-31,Low,False
+100519,Detroit,Retail,22,IL,579,2021-06-19,High,False
+100520,Chicago,Small Business,40,MI,747,2022-01-29,Low,False
+100521,Detroit,Retail,59,MI,634,2022-04-05,High,False
+100522,Cleveland Downtown,Retail,52,OH,657,2022-08-02,Medium,True
+100523,Detroit,Retail,35,OH,708,2021-07-29,Medium,False
+100524,Pittsburgh,Retail,46,PA,573,2020-11-16,High,False
+100525,Cleveland Downtown,Mass Affluent,57,PA,765,2021-12-25,Low,False
+100526,Chicago,Mass Affluent,29,IL,711,2024-02-04,Medium,False
+100527,Chicago,Retail,44,OH,674,2023-11-08,Medium,False
+100528,Cleveland Downtown,Retail,30,IL,623,2024-01-27,High,False
+100529,Pittsburgh,Mass Affluent,37,IL,754,2022-02-09,Low,False
+100530,Detroit,Small Business,45,OH,669,2020-12-18,Medium,False
+100531,Columbus,Retail,48,MI,503,2021-03-17,High,False
+100532,Pittsburgh,Retail,52,MI,564,2023-12-14,High,False
+100533,Pittsburgh,Small Business,33,MI,628,2021-11-10,High,True
+100534,Cincinnati,Mass Affluent,21,MI,753,2021-07-02,Low,True
+100535,Pittsburgh,Retail,31,PA,679,2023-05-11,Medium,False
+100536,Detroit,Retail,37,MI,686,2023-04-21,Medium,False
+100537,Chicago,Retail,38,IL,589,2023-02-22,High,False
+100538,Pittsburgh,Retail,50,MI,632,2023-04-23,High,False
+100539,Cleveland Downtown,Mass Affluent,18,IL,666,2022-09-16,Medium,False
+100540,Cincinnati,Premier,57,PA,736,2023-04-18,Low,False
+100541,Cleveland Downtown,Retail,33,OH,640,2022-12-24,Medium,False
+100542,Pittsburgh,Mass Affluent,33,IL,804,2023-09-21,Low,False
+100543,Columbus,Small Business,42,MI,713,2021-10-08,Medium,False
+100544,Chicago,Retail,51,OH,673,2021-06-21,Medium,True
+100545,Chicago,Mass Affluent,34,PA,679,2024-08-21,Medium,False
+100546,Chicago,Small Business,37,PA,687,2021-05-06,Medium,True
+100547,Columbus,Retail,47,IL,662,2023-01-26,Medium,False
+100548,Chicago,Retail,47,PA,655,2024-11-22,Medium,False
+100549,Detroit,Premier,39,PA,580,2022-08-22,High,False
+100550,Chicago,Premier,49,IL,709,2022-03-31,Medium,False
+100551,Chicago,Retail,50,MI,500,2023-02-14,High,False
+100552,Cincinnati,Mass Affluent,65,OH,682,2021-04-07,Medium,False
+100553,Detroit,Retail,52,OH,602,2023-12-10,High,False
+100554,Pittsburgh,Small Business,45,PA,632,2024-09-19,High,False
+100555,Pittsburgh,Mass Affluent,29,PA,795,2020-09-21,Low,False
+100556,Cincinnati,Small Business,35,OH,701,2023-04-01,Medium,True
+100557,Detroit,Mass Affluent,49,MI,717,2023-04-30,Medium,False
+100558,Pittsburgh,Premier,39,IL,710,2024-03-03,Medium,False
+100559,Detroit,Retail,69,PA,656,2024-04-16,Medium,False
+100560,Cincinnati,Retail,40,IL,717,2021-04-15,Medium,False
+100561,Cincinnati,Mass Affluent,52,OH,755,2020-10-16,Low,False
+100562,Cincinnati,Mass Affluent,46,PA,627,2023-12-09,High,False
+100563,Detroit,Small Business,59,IL,626,2022-07-11,High,True
+100564,Detroit,Retail,41,IL,618,2021-03-03,High,False
+100565,Cleveland Downtown,Retail,37,PA,678,2022-03-31,Medium,False
+100566,Cincinnati,Premier,42,OH,713,2023-06-17,Medium,False
+100567,Pittsburgh,Retail,58,MI,684,2023-01-27,Medium,False
+100568,Cincinnati,Mass Affluent,34,OH,743,2023-06-16,Low,False
+100569,Chicago,Retail,53,PA,592,2024-07-28,High,False
+100570,Chicago,Retail,45,MI,698,2024-01-10,Medium,False
+100571,Pittsburgh,Mass Affluent,34,MI,765,2021-01-19,Low,False
+100572,Cleveland Downtown,Mass Affluent,36,MI,696,2022-11-11,Medium,False
+100573,Detroit,Retail,35,PA,660,2022-03-29,Medium,True
+100574,Columbus,Retail,23,MI,580,2022-08-04,High,False
+100575,Chicago,Retail,58,IL,613,2020-09-03,High,False
+100576,Detroit,Small Business,25,PA,571,2020-08-25,High,False
+100577,Columbus,Mass Affluent,29,OH,617,2021-12-22,High,False
+100578,Pittsburgh,Retail,59,MI,715,2024-06-26,Medium,True
+100579,Detroit,Retail,29,PA,783,2021-09-17,Low,False
+100580,Detroit,Retail,50,MI,642,2022-01-02,Medium,False
+100581,Pittsburgh,Retail,18,PA,786,2020-11-25,Low,True
+100582,Detroit,Retail,19,IL,569,2024-08-11,High,False
+100583,Pittsburgh,Retail,51,IL,794,2022-05-12,Low,False
+100584,Detroit,Retail,55,IL,691,2021-02-24,Medium,True
+100585,Cincinnati,Mass Affluent,45,IL,736,2023-06-30,Low,False
+100586,Cleveland Downtown,Mass Affluent,47,OH,705,2024-09-01,Medium,True
+100587,Pittsburgh,Retail,39,OH,656,2021-11-20,Medium,True
+100588,Cleveland Downtown,Premier,28,OH,674,2022-04-11,Medium,False
+100589,Cleveland Downtown,Retail,18,PA,654,2024-02-29,Medium,True
+100590,Chicago,Premier,25,IL,629,2022-10-28,High,False
+100591,Pittsburgh,Retail,40,IL,736,2022-10-25,Low,False
+100592,Cleveland Downtown,Mass Affluent,49,PA,603,2021-04-04,High,False
+100593,Cincinnati,Retail,25,IL,711,2021-12-15,Medium,False
+100594,Columbus,Mass Affluent,25,PA,677,2024-11-25,Medium,False
+100595,Cleveland Downtown,Premier,45,IL,636,2021-02-22,High,False
+100596,Chicago,Retail,39,IL,586,2023-08-20,High,False
+100597,Columbus,Retail,30,PA,677,2023-05-18,Medium,False
+100598,Columbus,Premier,18,OH,714,2024-09-28,Medium,False
+100599,Chicago,Retail,37,OH,690,2023-07-29,Medium,False
+100600,Columbus,Retail,40,OH,735,2022-06-02,Low,False
+100601,Detroit,Mass Affluent,39,OH,666,2023-07-20,Medium,False
+100602,Chicago,Retail,39,IL,689,2023-08-11,Medium,False
+100603,Detroit,Retail,38,OH,662,2024-02-20,Medium,False
+100604,Detroit,Premier,28,PA,653,2020-10-26,Medium,False
+100605,Detroit,Retail,19,MI,756,2023-08-05,Low,False
+100606,Cincinnati,Small Business,21,PA,651,2022-08-09,Medium,False
+100607,Cincinnati,Retail,28,PA,709,2021-05-30,Medium,True
+100608,Chicago,Retail,34,IL,728,2024-08-28,Low,False
+100609,Cincinnati,Premier,29,IL,705,2021-12-24,Medium,False
+100610,Cincinnati,Mass Affluent,27,IL,807,2024-02-01,Low,True
+100611,Cincinnati,Retail,22,IL,677,2023-07-28,Medium,True
+100612,Columbus,Retail,46,PA,682,2022-04-29,Medium,False
+100613,Cleveland Downtown,Mass Affluent,35,IL,682,2021-10-18,Medium,False
+100614,Detroit,Retail,38,PA,651,2023-06-29,Medium,False
+100615,Columbus,Retail,50,OH,781,2022-05-26,Low,False
+100616,Cincinnati,Retail,30,PA,584,2024-08-19,High,False
+100617,Cincinnati,Retail,36,OH,801,2024-07-06,Low,True
+100618,Columbus,Small Business,27,PA,780,2022-03-27,Low,True
+100619,Columbus,Small Business,59,MI,659,2023-03-23,Medium,True
+100620,Cleveland Downtown,Retail,45,PA,749,2020-10-06,Low,False
+100621,Cleveland Downtown,Mass Affluent,33,IL,678,2023-07-25,Medium,False
+100622,Chicago,Mass Affluent,30,PA,634,2022-09-12,High,False
+100623,Columbus,Mass Affluent,29,MI,622,2022-10-15,High,False
+100624,Pittsburgh,Retail,38,MI,617,2023-03-12,High,False
+100625,Cincinnati,Retail,41,IL,574,2022-04-23,High,True
+100626,Cleveland Downtown,Small Business,42,IL,735,2020-08-26,Low,False
+100627,Cincinnati,Small Business,18,MI,710,2023-03-03,Medium,False
+100628,Pittsburgh,Retail,53,PA,593,2020-10-06,High,False
+100629,Columbus,Retail,59,IL,683,2023-04-08,Medium,False
+100630,Columbus,Retail,28,PA,656,2022-10-17,Medium,False
+100631,Detroit,Small Business,45,IL,694,2021-11-01,Medium,False
+100632,Chicago,Premier,45,MI,639,2023-06-24,High,False
+100633,Pittsburgh,Premier,40,IL,612,2022-05-04,High,False
+100634,Columbus,Mass Affluent,36,MI,640,2023-12-22,Medium,False
+100635,Columbus,Mass Affluent,28,IL,757,2023-11-22,Low,False
+100636,Detroit,Premier,52,OH,723,2021-12-25,Low,False
+100637,Cleveland Downtown,Small Business,23,OH,672,2021-03-05,Medium,True
+100638,Cleveland Downtown,Mass Affluent,53,IL,697,2024-02-25,Medium,False
+100639,Chicago,Retail,68,PA,681,2024-11-14,Medium,False
+100640,Columbus,Retail,40,MI,642,2024-08-01,Medium,True
+100641,Detroit,Mass Affluent,39,IL,681,2021-03-23,Medium,False
+100642,Pittsburgh,Retail,47,IL,712,2024-11-08,Medium,False
+100643,Cleveland Downtown,Retail,27,MI,586,2021-12-01,High,False
+100644,Cincinnati,Retail,18,IL,687,2023-12-01,Medium,False
+100645,Cleveland Downtown,Small Business,23,PA,571,2023-07-28,High,False
+100646,Columbus,Mass Affluent,43,MI,827,2022-12-08,Low,False
+100647,Cincinnati,Mass Affluent,37,OH,736,2022-10-30,Low,False
+100648,Pittsburgh,Retail,39,PA,654,2021-01-05,Medium,True
+100649,Columbus,Retail,49,OH,644,2021-04-04,Medium,False
+100650,Chicago,Mass Affluent,41,OH,707,2022-08-25,Medium,False
+100651,Pittsburgh,Retail,29,IL,714,2024-08-10,Medium,False
+100652,Chicago,Retail,35,PA,618,2024-06-16,High,False
+100653,Pittsburgh,Small Business,44,MI,640,2021-10-01,Medium,False
+100654,Cleveland Downtown,Small Business,38,OH,689,2023-08-20,Medium,False
+100655,Columbus,Small Business,52,IL,716,2023-05-27,Medium,False
+100656,Cleveland Downtown,Small Business,37,MI,734,2021-11-16,Low,False
+100657,Detroit,Mass Affluent,56,PA,720,2023-02-27,Low,False
+100658,Cleveland Downtown,Premier,38,PA,617,2020-09-14,High,True
+100659,Chicago,Small Business,24,OH,673,2023-03-31,Medium,False
+100660,Columbus,Mass Affluent,30,IL,679,2021-02-15,Medium,True
+100661,Detroit,Retail,38,PA,689,2021-01-21,Medium,False
+100662,Chicago,Retail,37,MI,686,2024-08-15,Medium,False
+100663,Cleveland Downtown,Retail,38,OH,551,2023-01-05,High,False
+100664,Detroit,Mass Affluent,25,IL,682,2023-02-03,Medium,False
+100665,Cleveland Downtown,Mass Affluent,22,IL,722,2022-03-04,Low,False
+100666,Columbus,Retail,57,IL,727,2022-07-02,Low,False
+100667,Columbus,Mass Affluent,35,IL,771,2024-06-10,Low,False
+100668,Detroit,Retail,39,PA,641,2020-12-03,Medium,True
+100669,Cleveland Downtown,Retail,30,PA,643,2022-10-16,Medium,False
+100670,Chicago,Mass Affluent,32,PA,699,2020-10-10,Medium,False
+100671,Pittsburgh,Retail,40,OH,660,2024-05-29,Medium,False
+100672,Cleveland Downtown,Premier,43,IL,755,2022-11-26,Low,False
+100673,Cincinnati,Retail,50,OH,578,2023-11-15,High,False
+100674,Pittsburgh,Retail,18,IL,711,2024-05-05,Medium,False
+100675,Cleveland Downtown,Retail,20,OH,647,2021-07-29,Medium,False
+100676,Detroit,Mass Affluent,22,IL,590,2024-11-07,High,False
+100677,Cincinnati,Retail,45,OH,701,2020-11-09,Medium,True
+100678,Detroit,Small Business,30,PA,547,2021-09-18,High,False
+100679,Detroit,Retail,30,IL,681,2023-12-21,Medium,False
+100680,Columbus,Retail,18,MI,670,2022-02-27,Medium,False
+100681,Columbus,Retail,37,IL,691,2023-05-17,Medium,False
+100682,Pittsburgh,Retail,39,OH,606,2022-11-24,High,False
+100683,Cincinnati,Premier,53,IL,681,2021-08-04,Medium,False
+100684,Detroit,Retail,37,OH,608,2024-02-29,High,False
+100685,Cincinnati,Retail,32,IL,611,2023-01-22,High,True
+100686,Detroit,Retail,35,MI,754,2022-06-15,Low,True
+100687,Cincinnati,Retail,20,PA,571,2023-03-28,High,False
+100688,Cincinnati,Mass Affluent,57,PA,678,2022-03-27,Medium,False
+100689,Cincinnati,Retail,29,IL,717,2023-02-18,Medium,False
+100690,Cincinnati,Mass Affluent,30,IL,790,2021-09-10,Low,False
+100691,Columbus,Retail,46,MI,633,2022-09-20,High,False
+100692,Cincinnati,Retail,66,PA,626,2021-08-08,High,False
+100693,Detroit,Retail,47,OH,676,2020-11-04,Medium,False
+100694,Pittsburgh,Premier,54,PA,775,2022-06-19,Low,False
+100695,Cincinnati,Small Business,38,OH,648,2022-08-18,Medium,False
+100696,Chicago,Retail,43,MI,622,2023-07-26,High,True
+100697,Cincinnati,Mass Affluent,64,IL,697,2022-10-22,Medium,True
+100698,Cleveland Downtown,Retail,33,IL,670,2021-08-28,Medium,True
+100699,Pittsburgh,Retail,20,IL,606,2021-11-15,High,False
+100700,Cleveland Downtown,Mass Affluent,53,MI,653,2020-12-27,Medium,False
+100701,Detroit,Mass Affluent,24,OH,719,2024-04-23,Medium,True
+100702,Columbus,Mass Affluent,53,MI,729,2023-12-28,Low,False
+100703,Chicago,Mass Affluent,50,IL,648,2020-09-13,Medium,False
+100704,Cincinnati,Premier,19,IL,772,2024-04-30,Low,False
+100705,Cleveland Downtown,Retail,33,PA,646,2022-01-22,Medium,False
+100706,Chicago,Retail,55,PA,690,2022-06-04,Medium,False
+100707,Cincinnati,Retail,43,PA,779,2022-12-27,Low,False
+100708,Cleveland Downtown,Retail,29,MI,711,2022-08-04,Medium,False
+100709,Cleveland Downtown,Retail,38,PA,674,2022-12-20,Medium,True
+100710,Cincinnati,Retail,57,PA,687,2021-12-31,Medium,False
+100711,Pittsburgh,Retail,44,OH,718,2022-06-19,Medium,False
+100712,Chicago,Mass Affluent,33,MI,643,2024-07-18,Medium,False
+100713,Cincinnati,Retail,24,OH,551,2024-10-17,High,False
+100714,Cincinnati,Mass Affluent,64,PA,629,2020-10-08,High,True
+100715,Columbus,Retail,35,PA,644,2023-01-25,Medium,False
+100716,Detroit,Retail,41,IL,704,2023-08-16,Medium,False
+100717,Pittsburgh,Mass Affluent,49,PA,657,2021-05-01,Medium,False
+100718,Chicago,Retail,35,OH,675,2020-10-14,Medium,False
+100719,Detroit,Small Business,34,IL,778,2021-08-08,Low,False
+100720,Pittsburgh,Retail,44,PA,700,2023-10-08,Medium,False
+100721,Cincinnati,Mass Affluent,46,OH,754,2021-09-07,Low,False
+100722,Cleveland Downtown,Mass Affluent,40,PA,618,2022-11-14,High,False
+100723,Cincinnati,Retail,43,OH,624,2023-06-14,High,False
+100724,Chicago,Small Business,31,MI,722,2021-07-29,Low,True
+100725,Pittsburgh,Mass Affluent,54,OH,691,2022-12-21,Medium,False
+100726,Cincinnati,Small Business,42,PA,783,2021-02-22,Low,False
+100727,Chicago,Small Business,41,OH,833,2021-02-25,Low,False
+100728,Columbus,Retail,45,PA,563,2023-03-18,High,False
+100729,Cleveland Downtown,Retail,47,PA,680,2022-01-21,Medium,False
+100730,Pittsburgh,Retail,54,PA,697,2021-09-12,Medium,False
+100731,Pittsburgh,Retail,36,IL,592,2021-05-11,High,False
+100732,Detroit,Mass Affluent,35,PA,643,2021-10-23,Medium,False
+100733,Columbus,Retail,30,PA,692,2023-11-15,Medium,False
+100734,Cincinnati,Small Business,59,OH,711,2022-11-28,Medium,False
+100735,Cleveland Downtown,Retail,22,PA,684,2022-10-08,Medium,False
+100736,Detroit,Retail,53,IL,626,2022-08-18,High,True
+100737,Chicago,Retail,36,IL,660,2022-03-08,Medium,True
+100738,Columbus,Retail,27,OH,695,2020-08-27,Medium,False
+100739,Columbus,Retail,36,MI,683,2023-08-30,Medium,False
+100740,Detroit,Retail,26,IL,635,2021-10-01,High,False
+100741,Chicago,Mass Affluent,47,IL,669,2021-11-03,Medium,False
+100742,Detroit,Retail,60,OH,638,2023-06-03,High,True
+100743,Detroit,Small Business,40,MI,741,2021-11-18,Low,False
+100744,Cleveland Downtown,Mass Affluent,19,IL,593,2021-11-10,High,False
+100745,Columbus,Premier,18,OH,759,2020-10-17,Low,False
+100746,Chicago,Mass Affluent,30,MI,830,2024-09-27,Low,False
+100747,Pittsburgh,Retail,30,OH,670,2022-06-17,Medium,False
+100748,Cleveland Downtown,Mass Affluent,58,PA,800,2023-09-30,Low,False
+100749,Chicago,Mass Affluent,64,MI,756,2020-12-08,Low,False
+100750,Detroit,Mass Affluent,51,PA,722,2021-06-20,Low,False
+100751,Columbus,Mass Affluent,48,PA,659,2024-08-03,Medium,True
+100752,Detroit,Retail,27,MI,659,2021-07-29,Medium,False
+100753,Detroit,Retail,35,MI,635,2023-04-20,High,False
+100754,Detroit,Retail,47,OH,712,2024-02-29,Medium,True
+100755,Pittsburgh,Small Business,39,MI,771,2021-03-30,Low,False
+100756,Columbus,Mass Affluent,23,PA,679,2023-07-10,Medium,False
+100757,Columbus,Mass Affluent,28,PA,587,2020-08-26,High,False
+100758,Chicago,Retail,36,PA,653,2021-09-07,Medium,False
+100759,Chicago,Retail,57,IL,694,2022-10-26,Medium,False
+100760,Pittsburgh,Retail,24,OH,761,2022-08-30,Low,False
+100761,Detroit,Mass Affluent,53,MI,722,2022-05-16,Low,False
+100762,Pittsburgh,Retail,35,OH,607,2020-10-24,High,False
+100763,Cleveland Downtown,Mass Affluent,33,IL,749,2021-05-12,Low,False
+100764,Chicago,Mass Affluent,62,OH,774,2021-12-04,Low,False
+100765,Pittsburgh,Retail,31,IL,598,2023-09-26,High,False
+100766,Pittsburgh,Retail,39,MI,562,2023-01-11,High,True
+100767,Detroit,Mass Affluent,42,IL,681,2022-12-30,Medium,False
+100768,Chicago,Mass Affluent,31,OH,602,2024-05-13,High,False
+100769,Chicago,Mass Affluent,44,IL,660,2024-10-30,Medium,True
+100770,Cleveland Downtown,Small Business,22,PA,532,2022-06-13,High,False
+100771,Pittsburgh,Retail,37,IL,757,2023-10-15,Low,False
+100772,Chicago,Small Business,59,MI,664,2024-01-12,Medium,False
+100773,Cincinnati,Retail,30,MI,685,2023-07-09,Medium,False
+100774,Cleveland Downtown,Retail,25,PA,676,2024-08-18,Medium,False
+100775,Pittsburgh,Mass Affluent,47,PA,757,2022-07-07,Low,False
+100776,Chicago,Retail,36,OH,648,2024-11-30,Medium,False
+100777,Columbus,Retail,26,PA,614,2021-08-05,High,False
+100778,Columbus,Retail,35,IL,680,2024-11-13,Medium,False
+100779,Cleveland Downtown,Mass Affluent,49,OH,645,2022-07-22,Medium,False
+100780,Chicago,Retail,57,OH,645,2023-08-22,Medium,False
+100781,Pittsburgh,Retail,37,OH,618,2024-05-05,High,False
+100782,Cincinnati,Retail,18,MI,708,2024-02-26,Medium,False
+100783,Pittsburgh,Mass Affluent,47,PA,674,2021-04-29,Medium,False
+100784,Chicago,Retail,38,OH,688,2021-07-02,Medium,False
+100785,Chicago,Retail,18,MI,630,2020-11-14,High,False
+100786,Columbus,Mass Affluent,48,PA,621,2022-08-12,High,False
+100787,Detroit,Mass Affluent,41,PA,615,2024-06-08,High,False
+100788,Cleveland Downtown,Retail,44,OH,658,2021-08-13,Medium,False
+100789,Chicago,Retail,18,IL,724,2023-02-27,Low,False
+100790,Columbus,Retail,28,OH,615,2023-07-13,High,False
+100791,Detroit,Mass Affluent,40,MI,753,2021-01-18,Low,False
+100792,Cleveland Downtown,Small Business,24,MI,693,2023-10-09,Medium,False
+100793,Detroit,Mass Affluent,43,PA,728,2020-09-23,Low,False
+100794,Pittsburgh,Retail,40,OH,639,2023-07-31,High,False
+100795,Pittsburgh,Retail,27,PA,664,2022-02-13,Medium,False
+100796,Chicago,Mass Affluent,24,OH,529,2022-11-24,High,False
+100797,Cincinnati,Retail,43,IL,709,2022-11-15,Medium,True
+100798,Detroit,Mass Affluent,18,IL,634,2024-07-06,High,False
+100799,Cleveland Downtown,Mass Affluent,46,OH,803,2023-06-15,Low,False
+100800,Columbus,Retail,38,OH,619,2022-09-09,High,False
+100801,Detroit,Retail,35,IL,735,2022-07-19,Low,False
+100802,Chicago,Retail,29,PA,616,2023-05-14,High,False
+100803,Cleveland Downtown,Retail,31,PA,607,2024-01-19,High,False
+100804,Detroit,Retail,39,OH,749,2023-03-08,Low,True
+100805,Chicago,Retail,42,PA,646,2024-08-06,Medium,False
+100806,Columbus,Retail,34,IL,574,2024-04-09,High,True
+100807,Pittsburgh,Mass Affluent,49,OH,685,2023-03-10,Medium,False
+100808,Chicago,Mass Affluent,35,PA,835,2024-04-02,Low,False
+100809,Cleveland Downtown,Mass Affluent,41,OH,648,2024-01-02,Medium,False
+100810,Pittsburgh,Premier,32,MI,753,2023-12-27,Low,False
+100811,Cincinnati,Retail,39,MI,580,2020-10-23,High,True
+100812,Cleveland Downtown,Mass Affluent,49,OH,653,2023-01-16,Medium,False
+100813,Pittsburgh,Retail,62,OH,719,2023-06-13,Medium,False
+100814,Chicago,Premier,32,OH,760,2022-02-20,Low,False
+100815,Pittsburgh,Retail,38,OH,706,2022-02-13,Medium,False
+100816,Detroit,Retail,44,PA,613,2023-06-29,High,False
+100817,Cleveland Downtown,Small Business,29,OH,746,2023-08-23,Low,False
+100818,Chicago,Retail,33,OH,637,2024-11-07,High,False
+100819,Columbus,Retail,25,MI,683,2022-10-10,Medium,False
+100820,Columbus,Retail,64,OH,601,2021-10-27,High,False
+100821,Chicago,Mass Affluent,38,IL,767,2023-08-31,Low,False
+100822,Cincinnati,Retail,36,MI,684,2023-05-27,Medium,True
+100823,Cleveland Downtown,Mass Affluent,24,OH,713,2022-02-08,Medium,False
+100824,Chicago,Small Business,35,PA,744,2023-09-02,Low,False
+100825,Detroit,Premier,53,IL,832,2024-07-14,Low,False
+100826,Pittsburgh,Small Business,45,MI,707,2023-02-01,Medium,False
+100827,Cleveland Downtown,Mass Affluent,40,OH,670,2022-11-08,Medium,False
+100828,Columbus,Retail,42,MI,643,2020-10-10,Medium,True
+100829,Detroit,Retail,40,MI,732,2021-08-09,Low,True
+100830,Pittsburgh,Premier,24,PA,752,2020-10-24,Low,False
+100831,Detroit,Mass Affluent,55,PA,683,2024-01-29,Medium,False
+100832,Cleveland Downtown,Premier,18,OH,656,2023-08-13,Medium,False
+100833,Detroit,Retail,54,OH,658,2023-01-16,Medium,True
+100834,Cleveland Downtown,Mass Affluent,25,IL,662,2020-10-13,Medium,False
+100835,Chicago,Retail,48,PA,690,2021-12-13,Medium,False
+100836,Columbus,Retail,34,OH,639,2024-02-15,High,False
+100837,Chicago,Retail,32,OH,609,2023-08-16,High,False
+100838,Detroit,Retail,58,MI,642,2022-05-09,Medium,False
+100839,Chicago,Retail,53,OH,743,2022-02-01,Low,False
+100840,Columbus,Mass Affluent,50,IL,666,2024-07-02,Medium,True
+100841,Detroit,Mass Affluent,43,IL,688,2021-03-17,Medium,False
+100842,Columbus,Retail,26,MI,677,2023-02-26,Medium,True
+100843,Pittsburgh,Mass Affluent,22,MI,755,2023-02-20,Low,True
+100844,Pittsburgh,Retail,31,OH,671,2023-10-14,Medium,True
+100845,Columbus,Mass Affluent,41,OH,675,2024-01-19,Medium,True
+100846,Cleveland Downtown,Retail,45,IL,633,2023-02-28,High,True
+100847,Pittsburgh,Retail,49,MI,585,2023-10-04,High,False
+100848,Pittsburgh,Retail,39,MI,766,2024-04-01,Low,True
+100849,Cleveland Downtown,Retail,24,MI,622,2020-12-20,High,True
+100850,Chicago,Mass Affluent,44,PA,699,2023-01-31,Medium,False
+100851,Columbus,Retail,42,PA,686,2022-12-05,Medium,False
+100852,Pittsburgh,Retail,46,MI,721,2023-06-19,Low,True
+100853,Columbus,Retail,43,IL,646,2022-05-21,Medium,False
+100854,Detroit,Mass Affluent,46,PA,794,2024-05-23,Low,False
+100855,Pittsburgh,Retail,36,PA,606,2024-03-29,High,True
+100856,Cleveland Downtown,Retail,52,PA,653,2024-03-10,Medium,False
+100857,Columbus,Small Business,18,MI,736,2021-01-27,Low,False
+100858,Chicago,Premier,31,OH,685,2021-08-28,Medium,False
+100859,Detroit,Retail,42,OH,670,2024-10-19,Medium,False
+100860,Cleveland Downtown,Retail,47,IL,636,2024-03-14,High,False
+100861,Cleveland Downtown,Small Business,44,MI,675,2024-03-27,Medium,True
+100862,Cleveland Downtown,Premier,47,OH,723,2023-12-24,Low,True
+100863,Detroit,Retail,25,IL,719,2022-02-20,Medium,False
+100864,Cleveland Downtown,Retail,31,IL,704,2023-12-15,Medium,False
+100865,Cincinnati,Retail,42,PA,761,2023-05-19,Low,False
+100866,Cincinnati,Retail,35,PA,640,2024-09-23,Medium,False
+100867,Detroit,Mass Affluent,37,PA,673,2021-04-17,Medium,False
+100868,Cincinnati,Retail,48,IL,571,2024-07-31,High,False
+100869,Cleveland Downtown,Retail,24,PA,601,2022-07-28,High,True
+100870,Columbus,Mass Affluent,50,PA,784,2021-05-21,Low,False
+100871,Detroit,Mass Affluent,36,IL,680,2020-12-03,Medium,False
+100872,Cincinnati,Retail,38,IL,723,2022-12-29,Low,True
+100873,Detroit,Retail,25,IL,673,2023-05-29,Medium,True
+100874,Columbus,Retail,50,PA,687,2024-10-03,Medium,False
+100875,Cincinnati,Retail,40,IL,715,2021-12-14,Medium,False
+100876,Cincinnati,Mass Affluent,18,PA,727,2024-01-11,Low,True
+100877,Cleveland Downtown,Retail,29,PA,559,2023-06-06,High,False
+100878,Detroit,Small Business,44,OH,765,2020-08-21,Low,True
+100879,Columbus,Mass Affluent,36,IL,742,2022-12-07,Low,False
+100880,Columbus,Retail,58,MI,732,2020-10-13,Low,False
+100881,Chicago,Retail,59,OH,700,2020-12-23,Medium,False
+100882,Chicago,Retail,38,PA,571,2021-10-06,High,False
+100883,Columbus,Small Business,34,IL,643,2021-11-18,Medium,False
+100884,Cincinnati,Retail,66,OH,650,2024-06-01,Medium,False
+100885,Cleveland Downtown,Retail,39,PA,690,2024-10-23,Medium,False
+100886,Detroit,Retail,38,MI,753,2021-06-24,Low,False
+100887,Columbus,Small Business,29,MI,700,2020-11-25,Medium,False
+100888,Columbus,Small Business,28,MI,617,2024-08-03,High,False
+100889,Cleveland Downtown,Retail,30,PA,657,2024-04-19,Medium,False
+100890,Detroit,Small Business,32,OH,651,2022-10-29,Medium,False
+100891,Chicago,Premier,19,IL,685,2021-08-20,Medium,False
+100892,Cleveland Downtown,Retail,18,MI,701,2024-02-27,Medium,False
+100893,Columbus,Mass Affluent,39,IL,609,2021-05-03,High,False
+100894,Pittsburgh,Mass Affluent,33,PA,648,2020-12-15,Medium,True
+100895,Detroit,Mass Affluent,42,MI,763,2023-09-02,Low,False
+100896,Chicago,Mass Affluent,18,PA,696,2022-10-20,Medium,False
+100897,Cincinnati,Mass Affluent,35,MI,726,2024-03-17,Low,False
+100898,Columbus,Mass Affluent,40,IL,648,2021-09-27,Medium,False
+100899,Cleveland Downtown,Retail,33,MI,616,2021-06-29,High,False
+100900,Columbus,Mass Affluent,51,OH,691,2022-02-20,Medium,True
+100901,Columbus,Retail,62,OH,656,2023-08-03,Medium,False
+100902,Cincinnati,Premier,28,PA,606,2021-05-10,High,False
+100903,Cleveland Downtown,Small Business,18,MI,602,2022-06-02,High,False
+100904,Cleveland Downtown,Retail,41,PA,687,2021-01-13,Medium,True
+100905,Cleveland Downtown,Retail,18,OH,709,2020-11-18,Medium,False
+100906,Cleveland Downtown,Retail,31,IL,668,2020-10-24,Medium,False
+100907,Pittsburgh,Premier,58,IL,739,2022-02-27,Low,False
+100908,Pittsburgh,Retail,34,IL,610,2024-05-09,High,False
+100909,Pittsburgh,Mass Affluent,18,PA,650,2024-01-04,Medium,False
+100910,Pittsburgh,Retail,35,OH,605,2023-04-09,High,True
+100911,Cleveland Downtown,Retail,36,OH,664,2024-07-04,Medium,True
+100912,Cincinnati,Retail,35,IL,624,2024-01-08,High,False
+100913,Chicago,Retail,40,OH,684,2023-01-10,Medium,True
+100914,Detroit,Premier,23,IL,767,2020-12-21,Low,False
+100915,Cleveland Downtown,Retail,36,PA,661,2021-07-08,Medium,False
+100916,Pittsburgh,Retail,47,OH,672,2023-01-24,Medium,True
+100917,Columbus,Premier,50,IL,705,2021-01-05,Medium,False
+100918,Detroit,Mass Affluent,30,MI,709,2021-03-21,Medium,False
+100919,Cincinnati,Retail,23,OH,665,2024-08-23,Medium,False
+100920,Pittsburgh,Mass Affluent,37,IL,678,2024-01-23,Medium,False
+100921,Cleveland Downtown,Retail,36,IL,556,2024-06-06,High,True
+100922,Cincinnati,Small Business,30,IL,695,2023-10-21,Medium,False
+100923,Cleveland Downtown,Retail,40,PA,603,2021-05-05,High,False
+100924,Cincinnati,Premier,54,IL,642,2024-04-10,Medium,False
+100925,Cincinnati,Mass Affluent,50,IL,713,2022-03-07,Medium,False
+100926,Chicago,Retail,29,IL,757,2023-11-20,Low,True
+100927,Cincinnati,Small Business,22,MI,740,2023-11-16,Low,False
+100928,Pittsburgh,Retail,51,IL,623,2022-04-25,High,False
+100929,Cincinnati,Retail,56,MI,646,2021-10-04,Medium,True
+100930,Cleveland Downtown,Retail,41,OH,674,2024-06-10,Medium,False
+100931,Chicago,Retail,36,IL,704,2020-09-05,Medium,False
+100932,Detroit,Retail,48,OH,563,2022-10-02,High,False
+100933,Detroit,Retail,54,IL,568,2021-09-17,High,True
+100934,Columbus,Retail,51,OH,721,2022-09-16,Low,True
+100935,Chicago,Retail,23,PA,637,2024-03-31,High,False
+100936,Pittsburgh,Retail,23,PA,648,2023-09-26,Medium,False
+100937,Columbus,Retail,33,IL,702,2024-06-25,Medium,False
+100938,Chicago,Retail,55,PA,736,2021-08-02,Low,False
+100939,Cincinnati,Retail,30,OH,648,2024-06-07,Medium,False
+100940,Pittsburgh,Mass Affluent,18,MI,645,2023-05-17,Medium,True
+100941,Detroit,Retail,50,OH,748,2020-12-29,Low,False
+100942,Detroit,Mass Affluent,21,IL,657,2024-04-16,Medium,False
+100943,Pittsburgh,Retail,37,OH,675,2024-04-30,Medium,True
+100944,Detroit,Mass Affluent,27,MI,713,2021-12-02,Medium,False
+100945,Cincinnati,Small Business,31,MI,689,2022-10-10,Medium,False
+100946,Chicago,Retail,45,IL,660,2024-09-17,Medium,False
+100947,Columbus,Retail,32,PA,653,2021-06-15,Medium,True
+100948,Detroit,Mass Affluent,36,IL,669,2024-09-14,Medium,False
+100949,Pittsburgh,Small Business,34,MI,777,2021-01-18,Low,False
+100950,Columbus,Retail,45,IL,643,2023-06-01,Medium,False
+100951,Cincinnati,Retail,47,MI,641,2023-03-07,Medium,True
+100952,Cincinnati,Small Business,53,OH,710,2023-08-24,Medium,False
+100953,Columbus,Retail,36,IL,684,2023-02-14,Medium,False
+100954,Cincinnati,Mass Affluent,18,OH,628,2023-11-14,High,False
+100955,Pittsburgh,Retail,22,IL,667,2020-10-07,Medium,False
+100956,Pittsburgh,Mass Affluent,60,MI,812,2024-08-09,Low,False
+100957,Detroit,Mass Affluent,46,OH,717,2023-03-06,Medium,False
+100958,Chicago,Retail,18,PA,630,2021-12-25,High,False
+100959,Detroit,Retail,27,PA,625,2023-10-18,High,False
+100960,Cleveland Downtown,Retail,35,IL,634,2024-08-21,High,True
+100961,Cincinnati,Mass Affluent,18,MI,731,2022-11-09,Low,False
+100962,Pittsburgh,Retail,24,OH,673,2021-02-06,Medium,True
+100963,Cleveland Downtown,Retail,64,IL,609,2021-08-04,High,False
+100964,Pittsburgh,Retail,18,IL,644,2021-08-19,Medium,False
+100965,Detroit,Retail,52,PA,767,2023-06-22,Low,False
+100966,Chicago,Small Business,22,OH,717,2023-04-29,Medium,False
+100967,Cleveland Downtown,Retail,31,PA,654,2021-09-18,Medium,False
+100968,Columbus,Small Business,72,PA,607,2021-02-14,High,False
+100969,Columbus,Retail,41,IL,685,2022-01-16,Medium,False
+100970,Cleveland Downtown,Small Business,52,OH,695,2022-04-07,Medium,False
+100971,Columbus,Mass Affluent,42,OH,668,2023-09-01,Medium,False
+100972,Cincinnati,Mass Affluent,41,MI,671,2020-12-04,Medium,False
+100973,Chicago,Mass Affluent,46,IL,669,2022-10-23,Medium,True
+100974,Cincinnati,Retail,42,PA,658,2022-04-22,Medium,False
+100975,Cincinnati,Mass Affluent,52,IL,687,2021-08-23,Medium,False
+100976,Cleveland Downtown,Retail,18,MI,729,2021-10-10,Low,False
+100977,Chicago,Mass Affluent,26,MI,654,2023-04-01,Medium,False
+100978,Chicago,Retail,30,OH,735,2023-01-14,Low,False
+100979,Cincinnati,Mass Affluent,18,MI,835,2023-06-17,Low,False
+100980,Chicago,Mass Affluent,51,MI,702,2023-11-13,Medium,True
+100981,Columbus,Retail,37,PA,675,2024-08-08,Medium,False
+100982,Detroit,Retail,44,MI,695,2021-02-07,Medium,False
+100983,Columbus,Mass Affluent,45,IL,694,2023-04-07,Medium,False
+100984,Cincinnati,Small Business,35,IL,681,2022-09-29,Medium,False
+100985,Chicago,Retail,35,PA,722,2022-12-31,Low,False
+100986,Chicago,Mass Affluent,45,IL,528,2021-02-26,High,False
+100987,Cincinnati,Retail,46,PA,670,2021-03-27,Medium,False
+100988,Detroit,Retail,37,OH,638,2022-04-13,High,False
+100989,Columbus,Mass Affluent,52,PA,742,2021-02-09,Low,False
+100990,Cincinnati,Mass Affluent,27,PA,712,2022-12-06,Medium,False
+100991,Columbus,Mass Affluent,25,MI,614,2022-07-25,High,False
+100992,Cincinnati,Retail,29,MI,707,2022-04-28,Medium,False
+100993,Cleveland Downtown,Retail,50,OH,688,2022-04-10,Medium,False
+100994,Columbus,Retail,47,IL,688,2021-12-13,Medium,False
+100995,Cincinnati,Retail,29,PA,683,2024-02-25,Medium,False
+100996,Columbus,Retail,48,IL,701,2024-02-13,Medium,False
+100997,Cincinnati,Small Business,53,PA,728,2024-06-20,Low,True
+100998,Pittsburgh,Retail,42,PA,718,2023-03-02,Medium,False
+100999,Chicago,Retail,37,IL,611,2023-05-22,High,False
+101000,Columbus,Mass Affluent,35,PA,649,2021-09-09,Medium,False
+101001,Columbus,Retail,29,OH,652,2024-03-12,Medium,False
+101002,Detroit,Retail,27,IL,643,2022-08-29,Medium,False
+101003,Pittsburgh,Premier,18,IL,701,2024-11-23,Medium,False
+101004,Cleveland Downtown,Retail,38,MI,615,2024-11-04,High,False
+101005,Cincinnati,Mass Affluent,46,PA,741,2024-10-27,Low,True
+101006,Chicago,Retail,18,PA,618,2023-08-27,High,True
+101007,Chicago,Small Business,28,MI,638,2024-03-13,High,False
+101008,Cleveland Downtown,Retail,48,MI,649,2023-12-26,Medium,True
+101009,Cleveland Downtown,Small Business,34,MI,579,2023-04-17,High,False
+101010,Pittsburgh,Mass Affluent,46,MI,621,2022-06-28,High,False
+101011,Chicago,Premier,38,MI,705,2022-03-05,Medium,False
+101012,Cincinnati,Mass Affluent,55,PA,618,2022-08-29,High,False
+101013,Cleveland Downtown,Retail,18,PA,670,2023-09-27,Medium,False
+101014,Chicago,Retail,61,PA,728,2024-03-25,Low,False
+101015,Cincinnati,Mass Affluent,40,OH,662,2022-10-26,Medium,False
+101016,Chicago,Retail,48,OH,606,2021-08-04,High,False
+101017,Cleveland Downtown,Mass Affluent,44,OH,717,2024-08-26,Medium,True
+101018,Chicago,Retail,51,IL,811,2022-10-16,Low,True
+101019,Cleveland Downtown,Retail,43,IL,632,2020-12-26,High,False
+101020,Columbus,Retail,37,OH,562,2023-03-27,High,False
+101021,Pittsburgh,Mass Affluent,28,MI,667,2021-06-06,Medium,False
+101022,Detroit,Mass Affluent,31,IL,698,2024-05-02,Medium,False
+101023,Detroit,Mass Affluent,27,OH,751,2023-05-04,Low,False
+101024,Cleveland Downtown,Mass Affluent,38,IL,689,2023-10-23,Medium,False
+101025,Detroit,Retail,33,MI,668,2021-12-27,Medium,False
+101026,Columbus,Retail,48,IL,612,2023-04-08,High,True
+101027,Columbus,Retail,29,IL,643,2023-10-04,Medium,True
+101028,Chicago,Premier,20,MI,644,2023-08-10,Medium,False
+101029,Cleveland Downtown,Retail,31,OH,708,2024-04-20,Medium,False
+101030,Detroit,Mass Affluent,41,PA,700,2024-06-01,Medium,False
+101031,Detroit,Retail,49,OH,652,2023-06-27,Medium,False
+101032,Chicago,Retail,43,MI,654,2023-06-11,Medium,True
+101033,Pittsburgh,Retail,41,PA,627,2024-09-13,High,False
+101034,Cincinnati,Retail,18,MI,652,2022-07-14,Medium,False
+101035,Chicago,Retail,56,OH,710,2024-11-13,Medium,False
+101036,Columbus,Mass Affluent,50,PA,757,2023-01-29,Low,False
+101037,Cincinnati,Small Business,39,MI,700,2020-10-23,Medium,True
+101038,Cleveland Downtown,Retail,29,MI,642,2023-11-24,Medium,False
+101039,Cleveland Downtown,Retail,46,IL,726,2023-05-26,Low,False
+101040,Pittsburgh,Mass Affluent,36,IL,665,2022-07-23,Medium,True
+101041,Chicago,Small Business,38,PA,723,2024-04-15,Low,False
+101042,Columbus,Mass Affluent,19,OH,563,2024-01-11,High,False
+101043,Cleveland Downtown,Retail,30,IL,592,2021-09-24,High,False
+101044,Chicago,Retail,31,IL,651,2022-11-29,Medium,False
+101045,Detroit,Retail,32,PA,739,2022-03-19,Low,False
+101046,Pittsburgh,Retail,42,IL,676,2022-06-14,Medium,False
+101047,Cleveland Downtown,Retail,46,MI,597,2024-11-07,High,False
+101048,Chicago,Small Business,51,PA,685,2021-03-02,Medium,True
+101049,Cincinnati,Retail,46,OH,601,2022-06-30,High,False
+101050,Chicago,Mass Affluent,18,IL,734,2022-12-25,Low,False
+101051,Chicago,Mass Affluent,42,IL,640,2024-02-02,Medium,False
+101052,Detroit,Small Business,26,OH,751,2024-11-09,Low,False
+101053,Chicago,Premier,22,IL,780,2022-02-21,Low,False
+101054,Columbus,Retail,26,IL,695,2023-02-15,Medium,True
+101055,Columbus,Retail,33,MI,693,2024-08-21,Medium,True
+101056,Detroit,Retail,30,IL,651,2022-08-30,Medium,True
+101057,Columbus,Retail,38,IL,604,2021-09-16,High,False
+101058,Pittsburgh,Retail,47,IL,631,2022-06-01,High,False
+101059,Cincinnati,Retail,35,IL,605,2020-09-28,High,False
+101060,Chicago,Retail,18,IL,649,2022-08-11,Medium,False
+101061,Cleveland Downtown,Mass Affluent,69,OH,733,2024-05-30,Low,False
+101062,Detroit,Premier,37,MI,675,2022-01-26,Medium,True
+101063,Detroit,Retail,38,IL,690,2023-01-04,Medium,False
+101064,Cincinnati,Small Business,22,PA,751,2022-05-17,Low,False
+101065,Cincinnati,Mass Affluent,47,IL,729,2020-11-26,Low,False
+101066,Chicago,Retail,43,IL,661,2024-04-13,Medium,False
+101067,Cleveland Downtown,Mass Affluent,46,PA,722,2024-11-28,Low,False
+101068,Cincinnati,Retail,33,MI,628,2021-11-07,High,True
+101069,Detroit,Retail,39,OH,745,2024-08-31,Low,False
+101070,Columbus,Retail,21,IL,579,2024-04-27,High,False
+101071,Cincinnati,Mass Affluent,40,PA,692,2024-03-30,Medium,True
+101072,Pittsburgh,Retail,40,PA,673,2020-11-26,Medium,False
+101073,Cincinnati,Retail,35,IL,741,2024-08-29,Low,False
+101074,Chicago,Small Business,18,OH,644,2022-05-25,Medium,False
+101075,Pittsburgh,Mass Affluent,36,PA,599,2022-02-15,High,False
+101076,Cleveland Downtown,Retail,35,OH,751,2021-10-26,Low,False
+101077,Pittsburgh,Small Business,38,IL,702,2022-01-26,Medium,False
+101078,Columbus,Mass Affluent,21,PA,656,2020-10-28,Medium,False
+101079,Columbus,Retail,33,MI,642,2022-02-04,Medium,False
+101080,Pittsburgh,Retail,54,PA,690,2023-05-22,Medium,False
+101081,Pittsburgh,Premier,23,MI,703,2022-05-20,Medium,False
+101082,Columbus,Retail,44,MI,722,2020-12-27,Low,False
+101083,Detroit,Small Business,58,PA,634,2023-10-18,High,False
+101084,Columbus,Mass Affluent,27,MI,620,2021-01-26,High,True
+101085,Cincinnati,Small Business,34,PA,715,2020-12-09,Medium,True
+101086,Chicago,Premier,50,PA,685,2022-02-05,Medium,False
+101087,Detroit,Mass Affluent,33,MI,698,2020-12-09,Medium,False
+101088,Cleveland Downtown,Mass Affluent,27,IL,804,2021-08-27,Low,False
+101089,Detroit,Premier,18,IL,700,2021-02-21,Medium,True
+101090,Chicago,Small Business,64,MI,690,2022-07-21,Medium,False
+101091,Cleveland Downtown,Retail,35,OH,640,2022-10-14,Medium,True
+101092,Columbus,Retail,35,OH,735,2023-10-20,Low,False
+101093,Cincinnati,Mass Affluent,18,PA,774,2023-04-26,Low,False
+101094,Chicago,Retail,19,OH,645,2021-01-18,Medium,False
+101095,Cincinnati,Retail,32,OH,692,2022-11-29,Medium,False
+101096,Pittsburgh,Retail,18,PA,685,2020-10-04,Medium,False
+101097,Chicago,Mass Affluent,64,PA,615,2022-01-21,High,True
+101098,Chicago,Retail,40,OH,623,2022-10-13,High,True
+101099,Pittsburgh,Retail,43,MI,661,2021-10-29,Medium,True
+101100,Cleveland Downtown,Retail,29,MI,686,2023-10-14,Medium,False
+101101,Detroit,Small Business,61,IL,679,2023-08-29,Medium,False
+101102,Chicago,Mass Affluent,47,MI,618,2020-09-08,High,False
+101103,Detroit,Retail,25,PA,685,2020-11-09,Medium,False
+101104,Columbus,Retail,57,PA,679,2021-02-03,Medium,False
+101105,Cleveland Downtown,Retail,33,PA,659,2020-10-19,Medium,False
+101106,Detroit,Retail,21,OH,693,2022-07-09,Medium,False
+101107,Cincinnati,Mass Affluent,49,PA,665,2024-01-08,Medium,False
+101108,Detroit,Small Business,31,OH,704,2023-01-26,Medium,False
+101109,Pittsburgh,Mass Affluent,32,PA,686,2024-09-12,Medium,False
+101110,Columbus,Small Business,65,OH,676,2021-06-01,Medium,False
+101111,Detroit,Small Business,33,MI,654,2022-03-04,Medium,True
+101112,Detroit,Mass Affluent,47,OH,680,2020-12-14,Medium,True
+101113,Cincinnati,Retail,29,PA,732,2022-01-01,Low,False
+101114,Cleveland Downtown,Mass Affluent,56,PA,656,2022-08-04,Medium,False
+101115,Detroit,Retail,18,OH,715,2022-12-18,Medium,False
+101116,Columbus,Small Business,29,MI,733,2023-01-24,Low,False
+101117,Cincinnati,Retail,18,IL,709,2021-10-10,Medium,False
+101118,Chicago,Retail,22,MI,700,2022-06-04,Medium,False
+101119,Columbus,Small Business,38,PA,637,2024-09-12,High,True
+101120,Chicago,Small Business,32,IL,727,2024-04-14,Low,False
+101121,Pittsburgh,Retail,39,MI,692,2024-10-13,Medium,True
+101122,Detroit,Small Business,63,MI,603,2022-01-14,High,False
+101123,Detroit,Retail,59,OH,665,2023-04-05,Medium,True
+101124,Chicago,Retail,26,OH,586,2024-05-20,High,False
+101125,Columbus,Premier,35,OH,740,2021-05-29,Low,False
+101126,Cleveland Downtown,Retail,36,PA,743,2021-01-29,Low,True
+101127,Pittsburgh,Small Business,19,PA,689,2021-11-27,Medium,False
+101128,Chicago,Small Business,21,IL,709,2021-04-18,Medium,False
+101129,Cleveland Downtown,Mass Affluent,49,PA,666,2024-10-15,Medium,False
+101130,Pittsburgh,Mass Affluent,18,OH,700,2024-06-06,Medium,True
+101131,Cleveland Downtown,Retail,43,MI,682,2021-10-17,Medium,False
+101132,Cleveland Downtown,Mass Affluent,54,PA,631,2023-06-22,High,False
+101133,Pittsburgh,Retail,46,IL,725,2022-06-30,Low,False
+101134,Cincinnati,Retail,18,OH,677,2021-12-03,Medium,False
+101135,Cleveland Downtown,Mass Affluent,31,OH,685,2020-09-06,Medium,False
+101136,Chicago,Mass Affluent,42,OH,663,2022-12-01,Medium,False
+101137,Detroit,Retail,29,MI,661,2021-07-09,Medium,False
+101138,Cleveland Downtown,Retail,23,IL,600,2022-10-13,High,False
+101139,Pittsburgh,Small Business,46,OH,626,2022-04-07,High,False
+101140,Columbus,Retail,46,PA,685,2020-09-25,Medium,False
+101141,Pittsburgh,Mass Affluent,18,MI,652,2021-05-14,Medium,False
+101142,Columbus,Retail,53,MI,606,2024-11-10,High,False
+101143,Detroit,Small Business,31,PA,715,2024-03-25,Medium,False
+101144,Cleveland Downtown,Retail,48,IL,646,2021-11-28,Medium,False
+101145,Detroit,Premier,30,MI,768,2023-09-29,Low,False
+101146,Chicago,Mass Affluent,60,MI,743,2023-09-26,Low,True
+101147,Pittsburgh,Small Business,39,PA,645,2024-01-08,Medium,True
+101148,Columbus,Retail,27,MI,688,2023-11-01,Medium,False
+101149,Cleveland Downtown,Retail,43,OH,737,2020-09-16,Low,False
+101150,Detroit,Retail,46,OH,577,2023-04-17,High,False
+101151,Chicago,Retail,51,OH,605,2023-10-25,High,False
+101152,Chicago,Mass Affluent,33,MI,703,2022-12-02,Medium,False
+101153,Columbus,Mass Affluent,63,PA,835,2024-05-12,Low,False
+101154,Cincinnati,Mass Affluent,45,PA,679,2023-02-21,Medium,False
+101155,Pittsburgh,Retail,44,MI,708,2021-01-12,Medium,False
+101156,Detroit,Retail,33,MI,758,2023-02-24,Low,True
+101157,Pittsburgh,Retail,40,MI,687,2023-07-17,Medium,True
+101158,Columbus,Mass Affluent,46,IL,713,2023-05-16,Medium,False
+101159,Cincinnati,Retail,48,MI,626,2022-03-26,High,False
+101160,Pittsburgh,Retail,30,MI,599,2022-03-11,High,False
+101161,Detroit,Retail,43,OH,702,2023-05-08,Medium,False
+101162,Columbus,Small Business,43,PA,782,2023-06-12,Low,False
+101163,Chicago,Small Business,37,OH,726,2020-11-04,Low,True
+101164,Cleveland Downtown,Small Business,23,OH,668,2021-08-29,Medium,False
+101165,Detroit,Retail,47,PA,706,2024-09-18,Medium,False
+101166,Detroit,Retail,34,IL,656,2021-04-03,Medium,False
+101167,Columbus,Retail,18,PA,640,2021-08-13,Medium,False
+101168,Chicago,Small Business,49,PA,721,2022-04-26,Low,False
+101169,Detroit,Retail,44,IL,662,2022-11-18,Medium,False
+101170,Detroit,Retail,38,PA,623,2021-06-24,High,False
+101171,Chicago,Retail,47,PA,683,2022-06-03,Medium,False
+101172,Columbus,Retail,44,PA,631,2020-10-17,High,False
+101173,Chicago,Retail,18,MI,720,2024-09-11,Low,False
+101174,Columbus,Mass Affluent,31,PA,642,2024-07-27,Medium,True
+101175,Cincinnati,Retail,47,OH,638,2021-03-04,High,True
+101176,Columbus,Retail,51,MI,693,2022-09-30,Medium,False
+101177,Pittsburgh,Small Business,46,OH,614,2024-09-12,High,False
+101178,Chicago,Retail,53,MI,674,2020-10-05,Medium,False
+101179,Cincinnati,Mass Affluent,33,PA,697,2022-10-23,Medium,False
+101180,Chicago,Retail,18,OH,682,2022-01-09,Medium,False
+101181,Cincinnati,Retail,24,PA,585,2022-01-10,High,False
+101182,Pittsburgh,Retail,18,MI,721,2022-03-11,Low,True
+101183,Pittsburgh,Small Business,29,OH,774,2022-02-09,Low,False
+101184,Columbus,Retail,31,PA,566,2024-06-28,High,True
+101185,Detroit,Mass Affluent,23,PA,757,2024-01-30,Low,False
+101186,Columbus,Retail,35,OH,629,2021-03-20,High,False
+101187,Columbus,Retail,40,MI,687,2020-11-18,Medium,False
+101188,Cleveland Downtown,Retail,52,IL,739,2022-03-27,Low,False
+101189,Columbus,Mass Affluent,33,IL,617,2024-10-18,High,False
+101190,Columbus,Retail,32,PA,674,2024-03-02,Medium,False
+101191,Chicago,Retail,25,PA,607,2024-08-10,High,False
+101192,Columbus,Retail,42,PA,657,2022-01-09,Medium,False
+101193,Pittsburgh,Mass Affluent,38,OH,648,2020-11-20,Medium,False
+101194,Chicago,Mass Affluent,35,MI,639,2024-06-10,High,False
+101195,Columbus,Retail,49,IL,716,2022-03-22,Medium,False
+101196,Columbus,Retail,18,IL,608,2021-07-21,High,False
+101197,Columbus,Mass Affluent,18,PA,654,2021-06-05,Medium,False
+101198,Chicago,Retail,36,PA,580,2020-11-10,High,False
+101199,Chicago,Retail,26,IL,604,2021-07-30,High,False
+101200,Detroit,Retail,40,IL,663,2022-10-05,Medium,False

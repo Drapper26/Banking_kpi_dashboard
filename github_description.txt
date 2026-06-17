@@ -1,0 +1,1 @@
+Banking KPI Dashboard built with SQL, Python, SQLite, and Streamlit. Analyzes customer deposits, loan exposure, default rates, churn, and transaction channel performance for a financial-services analytics portfolio.
